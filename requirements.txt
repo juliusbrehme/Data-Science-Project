@@ -1,0 +1,15 @@
+requests
+pandas
+matplotlib
+scikit-learn
+seaborn 
+ipywidgets
+ipyleaflet
+networkx
+sklearn
+plotly
+nbformat
+pep8
+pylint 
+numpy
+networkx
