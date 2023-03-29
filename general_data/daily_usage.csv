@@ -1,0 +1,1921 @@
+Station_ID,Hour,Used Bikes
+Average,0,1.314221891288161
+Average,1,1.240506329113924
+Average,2,1.2911392405063291
+Average,3,1.0826507818317201
+Average,4,1.3358153387937455
+Average,5,1.2137006701414743
+Average,6,1.3909158600148919
+Average,7,1.552494415487714
+Average,8,1.5510052122114668
+Average,9,1.5420699925539836
+Average,10,1.6463142218912883
+Average,11,1.7684288905435595
+Average,12,1.8801191362620997
+Average,13,1.8503350707371558
+Average,14,1.9300074460163812
+Average,15,2.086373790022338
+Average,16,1.9650037230081907
+Average,17,1.8525688756515264
+Average,18,1.7066269545793
+Average,19,1.5673864482501862
+Average,20,1.518987341772152
+Average,21,1.3775130305286671
+Average,22,1.3283693224125093
+Average,23,1.3090096798212956
+Anleger Reventlou,0,1.1764705882352942
+Anleger Reventlou,1,1.0
+Anleger Reventlou,2,1.2941176470588236
+Anleger Reventlou,3,1.0
+Anleger Reventlou,4,1.2941176470588236
+Anleger Reventlou,5,1.9411764705882353
+Anleger Reventlou,6,3.176470588235294
+Anleger Reventlou,7,4.117647058823529
+Anleger Reventlou,8,2.0588235294117645
+Anleger Reventlou,9,2.1176470588235294
+Anleger Reventlou,10,2.764705882352941
+Anleger Reventlou,11,3.9411764705882355
+Anleger Reventlou,12,3.588235294117647
+Anleger Reventlou,13,3.4705882352941178
+Anleger Reventlou,14,4.823529411764706
+Anleger Reventlou,15,5.0
+Anleger Reventlou,16,4.411764705882353
+Anleger Reventlou,17,3.1176470588235294
+Anleger Reventlou,18,2.6470588235294117
+Anleger Reventlou,19,1.5294117647058822
+Anleger Reventlou,20,2.0588235294117645
+Anleger Reventlou,21,1.1764705882352942
+Anleger Reventlou,22,1.411764705882353
+Anleger Reventlou,23,1.0588235294117647
+CAU Universitätsbibliothek,0,1.0
+CAU Universitätsbibliothek,1,0.9411764705882353
+CAU Universitätsbibliothek,2,1.0
+CAU Universitätsbibliothek,3,0.9411764705882353
+CAU Universitätsbibliothek,4,1.0588235294117647
+CAU Universitätsbibliothek,5,0.8823529411764706
+CAU Universitätsbibliothek,6,1.1764705882352942
+CAU Universitätsbibliothek,7,1.8235294117647058
+CAU Universitätsbibliothek,8,2.5294117647058822
+CAU Universitätsbibliothek,9,2.411764705882353
+CAU Universitätsbibliothek,10,2.5294117647058822
+CAU Universitätsbibliothek,11,2.0588235294117645
+CAU Universitätsbibliothek,12,2.0588235294117645
+CAU Universitätsbibliothek,13,2.588235294117647
+CAU Universitätsbibliothek,14,3.0588235294117645
+CAU Universitätsbibliothek,15,3.588235294117647
+CAU Universitätsbibliothek,16,2.4705882352941178
+CAU Universitätsbibliothek,17,1.588235294117647
+CAU Universitätsbibliothek,18,1.2941176470588236
+CAU Universitätsbibliothek,19,1.2352941176470589
+CAU Universitätsbibliothek,20,1.2941176470588236
+CAU Universitätsbibliothek,21,0.8823529411764706
+CAU Universitätsbibliothek,22,0.9411764705882353
+CAU Universitätsbibliothek,23,1.0588235294117647
+Catharinenberg,0,0.17647058823529413
+Catharinenberg,1,0.17647058823529413
+Catharinenberg,2,0.23529411764705882
+Catharinenberg,3,0.17647058823529413
+Catharinenberg,4,0.17647058823529413
+Catharinenberg,5,0.17647058823529413
+Catharinenberg,6,0.17647058823529413
+Catharinenberg,7,0.17647058823529413
+Catharinenberg,8,0.17647058823529413
+Catharinenberg,9,0.17647058823529413
+Catharinenberg,10,0.29411764705882354
+Catharinenberg,11,0.29411764705882354
+Catharinenberg,12,0.17647058823529413
+Catharinenberg,13,0.17647058823529413
+Catharinenberg,14,0.17647058823529413
+Catharinenberg,15,0.17647058823529413
+Catharinenberg,16,0.17647058823529413
+Catharinenberg,17,0.17647058823529413
+Catharinenberg,18,0.17647058823529413
+Catharinenberg,19,0.17647058823529413
+Catharinenberg,20,0.17647058823529413
+Catharinenberg,21,0.11764705882352941
+Catharinenberg,22,0.11764705882352941
+Catharinenberg,23,0.11764705882352941
+Dreiecksplatz,0,1.9411764705882353
+Dreiecksplatz,1,1.1764705882352942
+Dreiecksplatz,2,1.5294117647058822
+Dreiecksplatz,3,1.1764705882352942
+Dreiecksplatz,4,1.588235294117647
+Dreiecksplatz,5,1.0
+Dreiecksplatz,6,1.5294117647058822
+Dreiecksplatz,7,2.0
+Dreiecksplatz,8,2.4705882352941178
+Dreiecksplatz,9,2.2941176470588234
+Dreiecksplatz,10,2.5294117647058822
+Dreiecksplatz,11,2.588235294117647
+Dreiecksplatz,12,2.4705882352941178
+Dreiecksplatz,13,2.3529411764705883
+Dreiecksplatz,14,2.764705882352941
+Dreiecksplatz,15,3.4705882352941178
+Dreiecksplatz,16,3.3529411764705883
+Dreiecksplatz,17,3.1176470588235294
+Dreiecksplatz,18,3.3529411764705883
+Dreiecksplatz,19,3.7058823529411766
+Dreiecksplatz,20,2.1176470588235294
+Dreiecksplatz,21,2.764705882352941
+Dreiecksplatz,22,2.3529411764705883
+Dreiecksplatz,23,2.7058823529411766
+Kanalfähre Holtenau,0,0.6470588235294118
+Kanalfähre Holtenau,1,0.6470588235294118
+Kanalfähre Holtenau,2,0.7647058823529411
+Kanalfähre Holtenau,3,0.5294117647058824
+Kanalfähre Holtenau,4,0.5882352941176471
+Kanalfähre Holtenau,5,0.5294117647058824
+Kanalfähre Holtenau,6,0.47058823529411764
+Kanalfähre Holtenau,7,0.47058823529411764
+Kanalfähre Holtenau,8,0.5294117647058824
+Kanalfähre Holtenau,9,0.5294117647058824
+Kanalfähre Holtenau,10,0.5294117647058824
+Kanalfähre Holtenau,11,0.5294117647058824
+Kanalfähre Holtenau,12,0.5294117647058824
+Kanalfähre Holtenau,13,0.5882352941176471
+Kanalfähre Holtenau,14,0.5294117647058824
+Kanalfähre Holtenau,15,0.5882352941176471
+Kanalfähre Holtenau,16,0.7647058823529411
+Kanalfähre Holtenau,17,0.7647058823529411
+Kanalfähre Holtenau,18,0.7058823529411765
+Kanalfähre Holtenau,19,0.6470588235294118
+Kanalfähre Holtenau,20,0.6470588235294118
+Kanalfähre Holtenau,21,0.6470588235294118
+Kanalfähre Holtenau,22,0.6470588235294118
+Kanalfähre Holtenau,23,0.6470588235294118
+Kanalfähre Wik,0,0.9411764705882353
+Kanalfähre Wik,1,0.9411764705882353
+Kanalfähre Wik,2,1.2352941176470589
+Kanalfähre Wik,3,0.9411764705882353
+Kanalfähre Wik,4,1.1176470588235294
+Kanalfähre Wik,5,0.8823529411764706
+Kanalfähre Wik,6,0.9411764705882353
+Kanalfähre Wik,7,0.8235294117647058
+Kanalfähre Wik,8,0.8823529411764706
+Kanalfähre Wik,9,1.1764705882352942
+Kanalfähre Wik,10,1.2352941176470589
+Kanalfähre Wik,11,1.1764705882352942
+Kanalfähre Wik,12,1.2352941176470589
+Kanalfähre Wik,13,1.1764705882352942
+Kanalfähre Wik,14,1.1764705882352942
+Kanalfähre Wik,15,1.2352941176470589
+Kanalfähre Wik,16,1.1764705882352942
+Kanalfähre Wik,17,0.9411764705882353
+Kanalfähre Wik,18,1.1176470588235294
+Kanalfähre Wik,19,0.8823529411764706
+Kanalfähre Wik,20,0.9411764705882353
+Kanalfähre Wik,21,0.8823529411764706
+Kanalfähre Wik,22,0.9411764705882353
+Kanalfähre Wik,23,0.8823529411764706
+Gemeindebücherei ,0,0.47058823529411764
+Gemeindebücherei ,1,0.47058823529411764
+Gemeindebücherei ,2,0.47058823529411764
+Gemeindebücherei ,3,0.4117647058823529
+Gemeindebücherei ,4,0.4117647058823529
+Gemeindebücherei ,5,0.29411764705882354
+Gemeindebücherei ,6,0.29411764705882354
+Gemeindebücherei ,7,0.29411764705882354
+Gemeindebücherei ,8,0.29411764705882354
+Gemeindebücherei ,9,0.29411764705882354
+Gemeindebücherei ,10,0.29411764705882354
+Gemeindebücherei ,11,0.29411764705882354
+Gemeindebücherei ,12,0.47058823529411764
+Gemeindebücherei ,13,0.47058823529411764
+Gemeindebücherei ,14,0.7058823529411765
+Gemeindebücherei ,15,0.5882352941176471
+Gemeindebücherei ,16,0.5294117647058824
+Gemeindebücherei ,17,0.4117647058823529
+Gemeindebücherei ,18,0.4117647058823529
+Gemeindebücherei ,19,0.4117647058823529
+Gemeindebücherei ,20,0.47058823529411764
+Gemeindebücherei ,21,0.4117647058823529
+Gemeindebücherei ,22,0.4117647058823529
+Gemeindebücherei ,23,0.4117647058823529
+MELUND-Olympiahochhaus,0,1.5294117647058822
+MELUND-Olympiahochhaus,1,1.1764705882352942
+MELUND-Olympiahochhaus,2,1.3529411764705883
+MELUND-Olympiahochhaus,3,1.0588235294117647
+MELUND-Olympiahochhaus,4,1.9411764705882353
+MELUND-Olympiahochhaus,5,1.5294117647058822
+MELUND-Olympiahochhaus,6,1.8823529411764706
+MELUND-Olympiahochhaus,7,1.8823529411764706
+MELUND-Olympiahochhaus,8,1.8823529411764706
+MELUND-Olympiahochhaus,9,1.9411764705882353
+MELUND-Olympiahochhaus,10,2.4705882352941178
+MELUND-Olympiahochhaus,11,2.3529411764705883
+MELUND-Olympiahochhaus,12,2.7058823529411766
+MELUND-Olympiahochhaus,13,2.0
+MELUND-Olympiahochhaus,14,2.764705882352941
+MELUND-Olympiahochhaus,15,3.2941176470588234
+MELUND-Olympiahochhaus,16,2.6470588235294117
+MELUND-Olympiahochhaus,17,2.235294117647059
+MELUND-Olympiahochhaus,18,2.2941176470588234
+MELUND-Olympiahochhaus,19,2.0588235294117645
+MELUND-Olympiahochhaus,20,1.8235294117647058
+MELUND-Olympiahochhaus,21,1.5294117647058822
+MELUND-Olympiahochhaus,22,1.7647058823529411
+MELUND-Olympiahochhaus,23,1.3529411764705883
+Kirchhofallee,0,1.8235294117647058
+Kirchhofallee,1,1.2941176470588236
+Kirchhofallee,2,1.588235294117647
+Kirchhofallee,3,1.7647058823529411
+Kirchhofallee,4,1.6470588235294117
+Kirchhofallee,5,1.1176470588235294
+Kirchhofallee,6,2.588235294117647
+Kirchhofallee,7,3.588235294117647
+Kirchhofallee,8,3.0
+Kirchhofallee,9,2.2941176470588234
+Kirchhofallee,10,1.9411764705882353
+Kirchhofallee,11,2.2941176470588234
+Kirchhofallee,12,2.0588235294117645
+Kirchhofallee,13,2.7058823529411766
+Kirchhofallee,14,2.764705882352941
+Kirchhofallee,15,4.0588235294117645
+Kirchhofallee,16,4.0
+Kirchhofallee,17,4.0588235294117645
+Kirchhofallee,18,3.7058823529411766
+Kirchhofallee,19,3.176470588235294
+Kirchhofallee,20,2.588235294117647
+Kirchhofallee,21,2.6470588235294117
+Kirchhofallee,22,2.6470588235294117
+Kirchhofallee,23,1.588235294117647
+Hauptbahnhof,0,1.9411764705882353
+Hauptbahnhof,1,1.9411764705882353
+Hauptbahnhof,2,1.411764705882353
+Hauptbahnhof,3,1.9411764705882353
+Hauptbahnhof,4,3.1176470588235294
+Hauptbahnhof,5,4.235294117647059
+Hauptbahnhof,6,5.0
+Hauptbahnhof,7,4.882352941176471
+Hauptbahnhof,8,3.411764705882353
+Hauptbahnhof,9,3.3529411764705883
+Hauptbahnhof,10,3.764705882352941
+Hauptbahnhof,11,5.117647058823529
+Hauptbahnhof,12,6.117647058823529
+Hauptbahnhof,13,6.117647058823529
+Hauptbahnhof,14,6.823529411764706
+Hauptbahnhof,15,6.823529411764706
+Hauptbahnhof,16,6.529411764705882
+Hauptbahnhof,17,4.882352941176471
+Hauptbahnhof,18,4.588235294117647
+Hauptbahnhof,19,3.6470588235294117
+Hauptbahnhof,20,3.9411764705882355
+Hauptbahnhof,21,2.823529411764706
+Hauptbahnhof,22,2.6470588235294117
+Hauptbahnhof,23,2.8823529411764706
+CAU Sportstätten,0,1.0588235294117647
+CAU Sportstätten,1,1.1764705882352942
+CAU Sportstätten,2,1.0588235294117647
+CAU Sportstätten,3,0.9411764705882353
+CAU Sportstätten,4,1.1176470588235294
+CAU Sportstätten,5,1.0588235294117647
+CAU Sportstätten,6,1.2352941176470589
+CAU Sportstätten,7,2.0
+CAU Sportstätten,8,2.823529411764706
+CAU Sportstätten,9,1.9411764705882353
+CAU Sportstätten,10,2.8823529411764706
+CAU Sportstätten,11,2.4705882352941178
+CAU Sportstätten,12,2.8823529411764706
+CAU Sportstätten,13,2.8823529411764706
+CAU Sportstätten,14,3.0
+CAU Sportstätten,15,3.0
+CAU Sportstätten,16,3.0588235294117645
+CAU Sportstätten,17,2.8823529411764706
+CAU Sportstätten,18,2.5294117647058822
+CAU Sportstätten,19,3.1176470588235294
+CAU Sportstätten,20,2.176470588235294
+CAU Sportstätten,21,1.2352941176470589
+CAU Sportstätten,22,0.8823529411764706
+CAU Sportstätten,23,0.9411764705882353
+Mönkeberg Anleger,0,0.6470588235294118
+Mönkeberg Anleger,1,0.6470588235294118
+Mönkeberg Anleger,2,0.6470588235294118
+Mönkeberg Anleger,3,0.6470588235294118
+Mönkeberg Anleger,4,0.6470588235294118
+Mönkeberg Anleger,5,0.5294117647058824
+Mönkeberg Anleger,6,0.47058823529411764
+Mönkeberg Anleger,7,0.47058823529411764
+Mönkeberg Anleger,8,0.5294117647058824
+Mönkeberg Anleger,9,0.5294117647058824
+Mönkeberg Anleger,10,0.5294117647058824
+Mönkeberg Anleger,11,0.5882352941176471
+Mönkeberg Anleger,12,0.6470588235294118
+Mönkeberg Anleger,13,0.7058823529411765
+Mönkeberg Anleger,14,0.8235294117647058
+Mönkeberg Anleger,15,1.1764705882352942
+Mönkeberg Anleger,16,0.8235294117647058
+Mönkeberg Anleger,17,0.5882352941176471
+Mönkeberg Anleger,18,0.5882352941176471
+Mönkeberg Anleger,19,0.5882352941176471
+Mönkeberg Anleger,20,0.5882352941176471
+Mönkeberg Anleger,21,0.5882352941176471
+Mönkeberg Anleger,22,0.5882352941176471
+Mönkeberg Anleger,23,0.5882352941176471
+Bernhard-Minetti-Platz,0,1.6470588235294117
+Bernhard-Minetti-Platz,1,1.411764705882353
+Bernhard-Minetti-Platz,2,1.4705882352941178
+Bernhard-Minetti-Platz,3,1.1764705882352942
+Bernhard-Minetti-Platz,4,1.2941176470588236
+Bernhard-Minetti-Platz,5,1.7058823529411764
+Bernhard-Minetti-Platz,6,2.235294117647059
+Bernhard-Minetti-Platz,7,2.6470588235294117
+Bernhard-Minetti-Platz,8,2.764705882352941
+Bernhard-Minetti-Platz,9,2.0588235294117645
+Bernhard-Minetti-Platz,10,2.176470588235294
+Bernhard-Minetti-Platz,11,2.235294117647059
+Bernhard-Minetti-Platz,12,2.3529411764705883
+Bernhard-Minetti-Platz,13,2.7058823529411766
+Bernhard-Minetti-Platz,14,3.0588235294117645
+Bernhard-Minetti-Platz,15,3.823529411764706
+Bernhard-Minetti-Platz,16,3.5294117647058822
+Bernhard-Minetti-Platz,17,4.117647058823529
+Bernhard-Minetti-Platz,18,3.9411764705882355
+Bernhard-Minetti-Platz,19,3.0588235294117645
+Bernhard-Minetti-Platz,20,2.588235294117647
+Bernhard-Minetti-Platz,21,3.176470588235294
+Bernhard-Minetti-Platz,22,1.8823529411764706
+Bernhard-Minetti-Platz,23,1.8823529411764706
+Hansastr./Gutenbergstr.,0,1.7058823529411764
+Hansastr./Gutenbergstr.,1,1.0588235294117647
+Hansastr./Gutenbergstr.,2,1.5294117647058822
+Hansastr./Gutenbergstr.,3,1.0
+Hansastr./Gutenbergstr.,4,1.1764705882352942
+Hansastr./Gutenbergstr.,5,1.0588235294117647
+Hansastr./Gutenbergstr.,6,1.9411764705882353
+Hansastr./Gutenbergstr.,7,1.7647058823529411
+Hansastr./Gutenbergstr.,8,1.7058823529411764
+Hansastr./Gutenbergstr.,9,1.588235294117647
+Hansastr./Gutenbergstr.,10,1.7647058823529411
+Hansastr./Gutenbergstr.,11,1.7647058823529411
+Hansastr./Gutenbergstr.,12,1.8235294117647058
+Hansastr./Gutenbergstr.,13,2.235294117647059
+Hansastr./Gutenbergstr.,14,2.176470588235294
+Hansastr./Gutenbergstr.,15,3.235294117647059
+Hansastr./Gutenbergstr.,16,2.6470588235294117
+Hansastr./Gutenbergstr.,17,3.0
+Hansastr./Gutenbergstr.,18,2.6470588235294117
+Hansastr./Gutenbergstr.,19,2.6470588235294117
+Hansastr./Gutenbergstr.,20,2.3529411764705883
+Hansastr./Gutenbergstr.,21,1.9411764705882353
+Hansastr./Gutenbergstr.,22,1.8235294117647058
+Hansastr./Gutenbergstr.,23,1.3529411764705883
+Sandkrug,0,0.6470588235294118
+Sandkrug,1,0.6470588235294118
+Sandkrug,2,0.7647058823529411
+Sandkrug,3,0.6470588235294118
+Sandkrug,4,0.7058823529411765
+Sandkrug,5,0.5882352941176471
+Sandkrug,6,0.5882352941176471
+Sandkrug,7,0.5882352941176471
+Sandkrug,8,0.7647058823529411
+Sandkrug,9,0.7647058823529411
+Sandkrug,10,0.7058823529411765
+Sandkrug,11,0.7647058823529411
+Sandkrug,12,0.9411764705882353
+Sandkrug,13,0.7058823529411765
+Sandkrug,14,0.7058823529411765
+Sandkrug,15,0.7647058823529411
+Sandkrug,16,0.8235294117647058
+Sandkrug,17,0.7058823529411765
+Sandkrug,18,0.7058823529411765
+Sandkrug,19,0.7647058823529411
+Sandkrug,20,0.7058823529411765
+Sandkrug,21,0.7058823529411765
+Sandkrug,22,0.6470588235294118
+Sandkrug,23,0.6470588235294118
+Rathausplatz,0,1.0
+Rathausplatz,1,0.9411764705882353
+Rathausplatz,2,1.0
+Rathausplatz,3,1.1176470588235294
+Rathausplatz,4,1.3529411764705883
+Rathausplatz,5,0.9411764705882353
+Rathausplatz,6,1.2352941176470589
+Rathausplatz,7,2.176470588235294
+Rathausplatz,8,1.5294117647058822
+Rathausplatz,9,1.4705882352941178
+Rathausplatz,10,1.2941176470588236
+Rathausplatz,11,1.3529411764705883
+Rathausplatz,12,1.7058823529411764
+Rathausplatz,13,1.4705882352941178
+Rathausplatz,14,1.4705882352941178
+Rathausplatz,15,1.7647058823529411
+Rathausplatz,16,2.0
+Rathausplatz,17,1.7647058823529411
+Rathausplatz,18,1.0588235294117647
+Rathausplatz,19,1.1176470588235294
+Rathausplatz,20,1.2941176470588236
+Rathausplatz,21,1.0
+Rathausplatz,22,1.0588235294117647
+Rathausplatz,23,1.0588235294117647
+Vinetaplatz,0,1.1764705882352942
+Vinetaplatz,1,1.0588235294117647
+Vinetaplatz,2,1.588235294117647
+Vinetaplatz,3,1.1176470588235294
+Vinetaplatz,4,1.6470588235294117
+Vinetaplatz,5,1.588235294117647
+Vinetaplatz,6,1.8823529411764706
+Vinetaplatz,7,1.9411764705882353
+Vinetaplatz,8,1.7647058823529411
+Vinetaplatz,9,1.7647058823529411
+Vinetaplatz,10,1.7647058823529411
+Vinetaplatz,11,1.588235294117647
+Vinetaplatz,12,1.8823529411764706
+Vinetaplatz,13,2.0
+Vinetaplatz,14,2.588235294117647
+Vinetaplatz,15,2.235294117647059
+Vinetaplatz,16,2.176470588235294
+Vinetaplatz,17,2.4705882352941178
+Vinetaplatz,18,2.0
+Vinetaplatz,19,1.2941176470588236
+Vinetaplatz,20,1.7058823529411764
+Vinetaplatz,21,1.2941176470588236
+Vinetaplatz,22,1.1176470588235294
+Vinetaplatz,23,1.3529411764705883
+Dataport/FHVD,0,0.6470588235294118
+Dataport/FHVD,1,0.6470588235294118
+Dataport/FHVD,2,0.7647058823529411
+Dataport/FHVD,3,0.6470588235294118
+Dataport/FHVD,4,0.7647058823529411
+Dataport/FHVD,5,0.47058823529411764
+Dataport/FHVD,6,0.6470588235294118
+Dataport/FHVD,7,0.47058823529411764
+Dataport/FHVD,8,0.5294117647058824
+Dataport/FHVD,9,0.5294117647058824
+Dataport/FHVD,10,0.5294117647058824
+Dataport/FHVD,11,0.5294117647058824
+Dataport/FHVD,12,0.7058823529411765
+Dataport/FHVD,13,0.8235294117647058
+Dataport/FHVD,14,0.7058823529411765
+Dataport/FHVD,15,0.7647058823529411
+Dataport/FHVD,16,0.7058823529411765
+Dataport/FHVD,17,0.7058823529411765
+Dataport/FHVD,18,0.5882352941176471
+Dataport/FHVD,19,0.6470588235294118
+Dataport/FHVD,20,0.5882352941176471
+Dataport/FHVD,21,0.5882352941176471
+Dataport/FHVD,22,0.7058823529411765
+Dataport/FHVD,23,0.6470588235294118
+Freilichtmuseum Molfsee,0,0.29411764705882354
+Freilichtmuseum Molfsee,1,0.29411764705882354
+Freilichtmuseum Molfsee,2,0.29411764705882354
+Freilichtmuseum Molfsee,3,0.29411764705882354
+Freilichtmuseum Molfsee,4,0.4117647058823529
+Freilichtmuseum Molfsee,5,0.29411764705882354
+Freilichtmuseum Molfsee,6,0.23529411764705882
+Freilichtmuseum Molfsee,7,0.23529411764705882
+Freilichtmuseum Molfsee,8,0.23529411764705882
+Freilichtmuseum Molfsee,9,0.29411764705882354
+Freilichtmuseum Molfsee,10,0.35294117647058826
+Freilichtmuseum Molfsee,11,0.23529411764705882
+Freilichtmuseum Molfsee,12,0.29411764705882354
+Freilichtmuseum Molfsee,13,0.23529411764705882
+Freilichtmuseum Molfsee,14,0.35294117647058826
+Freilichtmuseum Molfsee,15,0.35294117647058826
+Freilichtmuseum Molfsee,16,0.23529411764705882
+Freilichtmuseum Molfsee,17,0.23529411764705882
+Freilichtmuseum Molfsee,18,0.23529411764705882
+Freilichtmuseum Molfsee,19,0.23529411764705882
+Freilichtmuseum Molfsee,20,0.29411764705882354
+Freilichtmuseum Molfsee,21,0.23529411764705882
+Freilichtmuseum Molfsee,22,0.23529411764705882
+Freilichtmuseum Molfsee,23,0.23529411764705882
+Hörnbad,0,1.0588235294117647
+Hörnbad,1,1.1764705882352942
+Hörnbad,2,1.2352941176470589
+Hörnbad,3,1.1764705882352942
+Hörnbad,4,1.3529411764705883
+Hörnbad,5,1.3529411764705883
+Hörnbad,6,1.6470588235294117
+Hörnbad,7,2.176470588235294
+Hörnbad,8,2.1176470588235294
+Hörnbad,9,1.8235294117647058
+Hörnbad,10,1.6470588235294117
+Hörnbad,11,1.8823529411764706
+Hörnbad,12,2.176470588235294
+Hörnbad,13,2.0
+Hörnbad,14,2.5294117647058822
+Hörnbad,15,3.0
+Hörnbad,16,3.0
+Hörnbad,17,2.2941176470588234
+Hörnbad,18,2.411764705882353
+Hörnbad,19,1.8235294117647058
+Hörnbad,20,2.0588235294117645
+Hörnbad,21,1.2941176470588236
+Hörnbad,22,1.5294117647058822
+Hörnbad,23,1.2352941176470589
+KielRegion GmbH,0,0.8235294117647058
+KielRegion GmbH,1,0.8235294117647058
+KielRegion GmbH,2,0.8235294117647058
+KielRegion GmbH,3,0.8235294117647058
+KielRegion GmbH,4,0.8235294117647058
+KielRegion GmbH,5,0.7647058823529411
+KielRegion GmbH,6,0.7647058823529411
+KielRegion GmbH,7,1.588235294117647
+KielRegion GmbH,8,1.2941176470588236
+KielRegion GmbH,9,1.0588235294117647
+KielRegion GmbH,10,1.3529411764705883
+KielRegion GmbH,11,2.176470588235294
+KielRegion GmbH,12,1.6470588235294117
+KielRegion GmbH,13,1.2352941176470589
+KielRegion GmbH,14,1.2941176470588236
+KielRegion GmbH,15,1.3529411764705883
+KielRegion GmbH,16,1.0588235294117647
+KielRegion GmbH,17,0.7647058823529411
+KielRegion GmbH,18,0.7647058823529411
+KielRegion GmbH,19,0.7647058823529411
+KielRegion GmbH,20,0.7647058823529411
+KielRegion GmbH,21,0.7647058823529411
+KielRegion GmbH,22,0.7647058823529411
+KielRegion GmbH,23,0.7647058823529411
+Westring/Eckernförder Str.,0,1.9411764705882353
+Westring/Eckernförder Str.,1,1.6470588235294117
+Westring/Eckernförder Str.,2,1.5294117647058822
+Westring/Eckernförder Str.,3,1.2941176470588236
+Westring/Eckernförder Str.,4,1.4705882352941178
+Westring/Eckernförder Str.,5,2.0588235294117645
+Westring/Eckernförder Str.,6,2.1176470588235294
+Westring/Eckernförder Str.,7,2.4705882352941178
+Westring/Eckernförder Str.,8,2.6470588235294117
+Westring/Eckernförder Str.,9,1.7058823529411764
+Westring/Eckernförder Str.,10,1.6470588235294117
+Westring/Eckernförder Str.,11,2.1176470588235294
+Westring/Eckernförder Str.,12,2.823529411764706
+Westring/Eckernförder Str.,13,3.0588235294117645
+Westring/Eckernförder Str.,14,2.823529411764706
+Westring/Eckernförder Str.,15,3.7058823529411766
+Westring/Eckernförder Str.,16,3.4705882352941178
+Westring/Eckernförder Str.,17,3.2941176470588234
+Westring/Eckernförder Str.,18,2.9411764705882355
+Westring/Eckernförder Str.,19,3.1176470588235294
+Westring/Eckernförder Str.,20,3.7058823529411766
+Westring/Eckernförder Str.,21,2.2941176470588234
+Westring/Eckernförder Str.,22,1.8823529411764706
+Westring/Eckernförder Str.,23,1.8235294117647058
+Förde Sparkasse Lorentzendamm,0,1.411764705882353
+Förde Sparkasse Lorentzendamm,1,1.0588235294117647
+Förde Sparkasse Lorentzendamm,2,1.6470588235294117
+Förde Sparkasse Lorentzendamm,3,1.1176470588235294
+Förde Sparkasse Lorentzendamm,4,1.411764705882353
+Förde Sparkasse Lorentzendamm,5,1.1764705882352942
+Förde Sparkasse Lorentzendamm,6,2.176470588235294
+Förde Sparkasse Lorentzendamm,7,1.8823529411764706
+Förde Sparkasse Lorentzendamm,8,1.2941176470588236
+Förde Sparkasse Lorentzendamm,9,1.4705882352941178
+Förde Sparkasse Lorentzendamm,10,1.2352941176470589
+Förde Sparkasse Lorentzendamm,11,1.7647058823529411
+Förde Sparkasse Lorentzendamm,12,2.6470588235294117
+Förde Sparkasse Lorentzendamm,13,2.0588235294117645
+Förde Sparkasse Lorentzendamm,14,2.0588235294117645
+Förde Sparkasse Lorentzendamm,15,2.3529411764705883
+Förde Sparkasse Lorentzendamm,16,2.411764705882353
+Förde Sparkasse Lorentzendamm,17,2.2941176470588234
+Förde Sparkasse Lorentzendamm,18,2.0588235294117645
+Förde Sparkasse Lorentzendamm,19,1.2352941176470589
+Förde Sparkasse Lorentzendamm,20,1.3529411764705883
+Förde Sparkasse Lorentzendamm,21,1.3529411764705883
+Förde Sparkasse Lorentzendamm,22,1.2941176470588236
+Förde Sparkasse Lorentzendamm,23,1.7647058823529411
+Kurt-Schumacher-Platz,0,0.5882352941176471
+Kurt-Schumacher-Platz,1,0.5882352941176471
+Kurt-Schumacher-Platz,2,0.6470588235294118
+Kurt-Schumacher-Platz,3,0.5294117647058824
+Kurt-Schumacher-Platz,4,0.5882352941176471
+Kurt-Schumacher-Platz,5,0.47058823529411764
+Kurt-Schumacher-Platz,6,0.47058823529411764
+Kurt-Schumacher-Platz,7,0.5294117647058824
+Kurt-Schumacher-Platz,8,0.5294117647058824
+Kurt-Schumacher-Platz,9,0.5882352941176471
+Kurt-Schumacher-Platz,10,0.5882352941176471
+Kurt-Schumacher-Platz,11,0.8823529411764706
+Kurt-Schumacher-Platz,12,0.5882352941176471
+Kurt-Schumacher-Platz,13,0.8235294117647058
+Kurt-Schumacher-Platz,14,0.5882352941176471
+Kurt-Schumacher-Platz,15,0.6470588235294118
+Kurt-Schumacher-Platz,16,0.6470588235294118
+Kurt-Schumacher-Platz,17,0.5882352941176471
+Kurt-Schumacher-Platz,18,0.5882352941176471
+Kurt-Schumacher-Platz,19,0.6470588235294118
+Kurt-Schumacher-Platz,20,0.5882352941176471
+Kurt-Schumacher-Platz,21,0.5294117647058824
+Kurt-Schumacher-Platz,22,0.5294117647058824
+Kurt-Schumacher-Platz,23,0.5294117647058824
+Exerzierplatz,0,1.3529411764705883
+Exerzierplatz,1,1.1764705882352942
+Exerzierplatz,2,1.5294117647058822
+Exerzierplatz,3,1.2352941176470589
+Exerzierplatz,4,1.0588235294117647
+Exerzierplatz,5,1.4705882352941178
+Exerzierplatz,6,2.0
+Exerzierplatz,7,2.0588235294117645
+Exerzierplatz,8,1.588235294117647
+Exerzierplatz,9,2.6470588235294117
+Exerzierplatz,10,2.4705882352941178
+Exerzierplatz,11,2.588235294117647
+Exerzierplatz,12,2.6470588235294117
+Exerzierplatz,13,2.9411764705882355
+Exerzierplatz,14,2.588235294117647
+Exerzierplatz,15,3.411764705882353
+Exerzierplatz,16,2.5294117647058822
+Exerzierplatz,17,2.2941176470588234
+Exerzierplatz,18,2.7058823529411766
+Exerzierplatz,19,1.8823529411764706
+Exerzierplatz,20,1.7058823529411764
+Exerzierplatz,21,1.588235294117647
+Exerzierplatz,22,1.2941176470588236
+Exerzierplatz,23,1.4705882352941178
+Bahnhalt Ellerbek,0,0.9411764705882353
+Bahnhalt Ellerbek,1,1.0
+Bahnhalt Ellerbek,2,1.1764705882352942
+Bahnhalt Ellerbek,3,0.9411764705882353
+Bahnhalt Ellerbek,4,1.1764705882352942
+Bahnhalt Ellerbek,5,0.8235294117647058
+Bahnhalt Ellerbek,6,0.9411764705882353
+Bahnhalt Ellerbek,7,0.7647058823529411
+Bahnhalt Ellerbek,8,1.0588235294117647
+Bahnhalt Ellerbek,9,1.1176470588235294
+Bahnhalt Ellerbek,10,1.0588235294117647
+Bahnhalt Ellerbek,11,1.1764705882352942
+Bahnhalt Ellerbek,12,1.1176470588235294
+Bahnhalt Ellerbek,13,0.9411764705882353
+Bahnhalt Ellerbek,14,1.1764705882352942
+Bahnhalt Ellerbek,15,1.411764705882353
+Bahnhalt Ellerbek,16,1.1176470588235294
+Bahnhalt Ellerbek,17,1.0
+Bahnhalt Ellerbek,18,0.9411764705882353
+Bahnhalt Ellerbek,19,1.0
+Bahnhalt Ellerbek,20,0.8235294117647058
+Bahnhalt Ellerbek,21,0.8235294117647058
+Bahnhalt Ellerbek,22,0.8823529411764706
+Bahnhalt Ellerbek,23,0.8823529411764706
+Anleger Friedrichsort,0,0.5882352941176471
+Anleger Friedrichsort,1,0.5882352941176471
+Anleger Friedrichsort,2,0.7058823529411765
+Anleger Friedrichsort,3,0.5882352941176471
+Anleger Friedrichsort,4,0.7058823529411765
+Anleger Friedrichsort,5,0.5294117647058824
+Anleger Friedrichsort,6,0.7647058823529411
+Anleger Friedrichsort,7,0.5294117647058824
+Anleger Friedrichsort,8,0.7647058823529411
+Anleger Friedrichsort,9,0.5882352941176471
+Anleger Friedrichsort,10,0.7058823529411765
+Anleger Friedrichsort,11,0.7058823529411765
+Anleger Friedrichsort,12,0.5294117647058824
+Anleger Friedrichsort,13,0.5882352941176471
+Anleger Friedrichsort,14,0.6470588235294118
+Anleger Friedrichsort,15,0.7058823529411765
+Anleger Friedrichsort,16,0.5882352941176471
+Anleger Friedrichsort,17,0.5882352941176471
+Anleger Friedrichsort,18,0.5882352941176471
+Anleger Friedrichsort,19,0.6470588235294118
+Anleger Friedrichsort,20,0.5882352941176471
+Anleger Friedrichsort,21,0.5294117647058824
+Anleger Friedrichsort,22,0.5882352941176471
+Anleger Friedrichsort,23,0.5294117647058824
+Muthesius Kunsthochschule,0,1.1176470588235294
+Muthesius Kunsthochschule,1,1.0588235294117647
+Muthesius Kunsthochschule,2,1.2941176470588236
+Muthesius Kunsthochschule,3,1.0588235294117647
+Muthesius Kunsthochschule,4,1.411764705882353
+Muthesius Kunsthochschule,5,1.1176470588235294
+Muthesius Kunsthochschule,6,1.0588235294117647
+Muthesius Kunsthochschule,7,1.411764705882353
+Muthesius Kunsthochschule,8,1.588235294117647
+Muthesius Kunsthochschule,9,1.5294117647058822
+Muthesius Kunsthochschule,10,1.7647058823529411
+Muthesius Kunsthochschule,11,2.0
+Muthesius Kunsthochschule,12,1.5294117647058822
+Muthesius Kunsthochschule,13,1.7058823529411764
+Muthesius Kunsthochschule,14,1.7058823529411764
+Muthesius Kunsthochschule,15,1.6470588235294117
+Muthesius Kunsthochschule,16,1.6470588235294117
+Muthesius Kunsthochschule,17,1.7058823529411764
+Muthesius Kunsthochschule,18,1.6470588235294117
+Muthesius Kunsthochschule,19,1.6470588235294117
+Muthesius Kunsthochschule,20,1.3529411764705883
+Muthesius Kunsthochschule,21,1.411764705882353
+Muthesius Kunsthochschule,22,1.5294117647058822
+Muthesius Kunsthochschule,23,1.3529411764705883
+Alter Markt,0,1.0
+Alter Markt,1,1.1764705882352942
+Alter Markt,2,1.1764705882352942
+Alter Markt,3,1.0
+Alter Markt,4,1.411764705882353
+Alter Markt,5,1.6470588235294117
+Alter Markt,6,1.8823529411764706
+Alter Markt,7,2.235294117647059
+Alter Markt,8,3.0588235294117645
+Alter Markt,9,2.2941176470588234
+Alter Markt,10,2.6470588235294117
+Alter Markt,11,3.5294117647058822
+Alter Markt,12,3.0
+Alter Markt,13,2.9411764705882355
+Alter Markt,14,3.1176470588235294
+Alter Markt,15,4.176470588235294
+Alter Markt,16,3.8823529411764706
+Alter Markt,17,3.0588235294117645
+Alter Markt,18,2.1176470588235294
+Alter Markt,19,1.7058823529411764
+Alter Markt,20,1.7058823529411764
+Alter Markt,21,1.6470588235294117
+Alter Markt,22,1.3529411764705883
+Alter Markt,23,1.1764705882352942
+Rathaus Altenholz,0,0.47058823529411764
+Rathaus Altenholz,1,0.5294117647058824
+Rathaus Altenholz,2,0.6470588235294118
+Rathaus Altenholz,3,0.47058823529411764
+Rathaus Altenholz,4,0.5294117647058824
+Rathaus Altenholz,5,0.4117647058823529
+Rathaus Altenholz,6,0.35294117647058826
+Rathaus Altenholz,7,0.35294117647058826
+Rathaus Altenholz,8,0.4117647058823529
+Rathaus Altenholz,9,0.47058823529411764
+Rathaus Altenholz,10,0.47058823529411764
+Rathaus Altenholz,11,0.47058823529411764
+Rathaus Altenholz,12,0.47058823529411764
+Rathaus Altenholz,13,0.47058823529411764
+Rathaus Altenholz,14,0.4117647058823529
+Rathaus Altenholz,15,0.47058823529411764
+Rathaus Altenholz,16,0.4117647058823529
+Rathaus Altenholz,17,0.4117647058823529
+Rathaus Altenholz,18,0.4117647058823529
+Rathaus Altenholz,19,0.4117647058823529
+Rathaus Altenholz,20,0.47058823529411764
+Rathaus Altenholz,21,0.5294117647058824
+Rathaus Altenholz,22,0.5294117647058824
+Rathaus Altenholz,23,0.5294117647058824
+KiTa Fußsteigkoppel,0,1.0588235294117647
+KiTa Fußsteigkoppel,1,0.9411764705882353
+KiTa Fußsteigkoppel,2,1.1764705882352942
+KiTa Fußsteigkoppel,3,0.9411764705882353
+KiTa Fußsteigkoppel,4,1.2941176470588236
+KiTa Fußsteigkoppel,5,1.0
+KiTa Fußsteigkoppel,6,1.0
+KiTa Fußsteigkoppel,7,1.0
+KiTa Fußsteigkoppel,8,1.0588235294117647
+KiTa Fußsteigkoppel,9,1.0
+KiTa Fußsteigkoppel,10,1.0
+KiTa Fußsteigkoppel,11,1.411764705882353
+KiTa Fußsteigkoppel,12,1.5294117647058822
+KiTa Fußsteigkoppel,13,1.2352941176470589
+KiTa Fußsteigkoppel,14,1.411764705882353
+KiTa Fußsteigkoppel,15,1.7058823529411764
+KiTa Fußsteigkoppel,16,1.1176470588235294
+KiTa Fußsteigkoppel,17,1.0588235294117647
+KiTa Fußsteigkoppel,18,1.1764705882352942
+KiTa Fußsteigkoppel,19,1.0588235294117647
+KiTa Fußsteigkoppel,20,1.0
+KiTa Fußsteigkoppel,21,1.0588235294117647
+KiTa Fußsteigkoppel,22,1.0
+KiTa Fußsteigkoppel,23,0.9411764705882353
+Kronshagen Bahnhof,0,0.8823529411764706
+Kronshagen Bahnhof,1,0.8823529411764706
+Kronshagen Bahnhof,2,1.0588235294117647
+Kronshagen Bahnhof,3,0.8235294117647058
+Kronshagen Bahnhof,4,1.0
+Kronshagen Bahnhof,5,0.7647058823529411
+Kronshagen Bahnhof,6,1.0
+Kronshagen Bahnhof,7,0.7058823529411765
+Kronshagen Bahnhof,8,0.7647058823529411
+Kronshagen Bahnhof,9,0.8235294117647058
+Kronshagen Bahnhof,10,0.9411764705882353
+Kronshagen Bahnhof,11,0.8823529411764706
+Kronshagen Bahnhof,12,1.0
+Kronshagen Bahnhof,13,1.0588235294117647
+Kronshagen Bahnhof,14,0.8823529411764706
+Kronshagen Bahnhof,15,0.8823529411764706
+Kronshagen Bahnhof,16,1.1176470588235294
+Kronshagen Bahnhof,17,0.8823529411764706
+Kronshagen Bahnhof,18,0.8235294117647058
+Kronshagen Bahnhof,19,0.8823529411764706
+Kronshagen Bahnhof,20,0.8235294117647058
+Kronshagen Bahnhof,21,0.7647058823529411
+Kronshagen Bahnhof,22,0.7647058823529411
+Kronshagen Bahnhof,23,0.8235294117647058
+Andreas-Gayk-Straße,0,1.1764705882352942
+Andreas-Gayk-Straße,1,1.1764705882352942
+Andreas-Gayk-Straße,2,1.4705882352941178
+Andreas-Gayk-Straße,3,1.3529411764705883
+Andreas-Gayk-Straße,4,1.411764705882353
+Andreas-Gayk-Straße,5,1.1176470588235294
+Andreas-Gayk-Straße,6,0.9411764705882353
+Andreas-Gayk-Straße,7,1.588235294117647
+Andreas-Gayk-Straße,8,1.4705882352941178
+Andreas-Gayk-Straße,9,1.4705882352941178
+Andreas-Gayk-Straße,10,1.5294117647058822
+Andreas-Gayk-Straße,11,1.7058823529411764
+Andreas-Gayk-Straße,12,1.7647058823529411
+Andreas-Gayk-Straße,13,2.1176470588235294
+Andreas-Gayk-Straße,14,2.1176470588235294
+Andreas-Gayk-Straße,15,2.1176470588235294
+Andreas-Gayk-Straße,16,2.6470588235294117
+Andreas-Gayk-Straße,17,1.7647058823529411
+Andreas-Gayk-Straße,18,1.8823529411764706
+Andreas-Gayk-Straße,19,1.1764705882352942
+Andreas-Gayk-Straße,20,1.3529411764705883
+Andreas-Gayk-Straße,21,1.0588235294117647
+Andreas-Gayk-Straße,22,0.9411764705882353
+Andreas-Gayk-Straße,23,1.0588235294117647
+Blücherplatz,0,1.6470588235294117
+Blücherplatz,1,1.2352941176470589
+Blücherplatz,2,1.6470588235294117
+Blücherplatz,3,1.1764705882352942
+Blücherplatz,4,1.3529411764705883
+Blücherplatz,5,1.588235294117647
+Blücherplatz,6,1.8235294117647058
+Blücherplatz,7,2.823529411764706
+Blücherplatz,8,2.5294117647058822
+Blücherplatz,9,1.8235294117647058
+Blücherplatz,10,2.0
+Blücherplatz,11,2.1176470588235294
+Blücherplatz,12,2.764705882352941
+Blücherplatz,13,2.7058823529411766
+Blücherplatz,14,2.764705882352941
+Blücherplatz,15,4.529411764705882
+Blücherplatz,16,3.764705882352941
+Blücherplatz,17,3.411764705882353
+Blücherplatz,18,3.176470588235294
+Blücherplatz,19,2.2941176470588234
+Blücherplatz,20,2.176470588235294
+Blücherplatz,21,2.3529411764705883
+Blücherplatz,22,1.8823529411764706
+Blücherplatz,23,2.0
+Provinzial Sophienblatt,0,1.0588235294117647
+Provinzial Sophienblatt,1,1.0
+Provinzial Sophienblatt,2,1.1764705882352942
+Provinzial Sophienblatt,3,1.1176470588235294
+Provinzial Sophienblatt,4,1.2941176470588236
+Provinzial Sophienblatt,5,0.9411764705882353
+Provinzial Sophienblatt,6,1.7058823529411764
+Provinzial Sophienblatt,7,1.411764705882353
+Provinzial Sophienblatt,8,1.2941176470588236
+Provinzial Sophienblatt,9,1.5294117647058822
+Provinzial Sophienblatt,10,1.7647058823529411
+Provinzial Sophienblatt,11,1.8235294117647058
+Provinzial Sophienblatt,12,1.588235294117647
+Provinzial Sophienblatt,13,2.5294117647058822
+Provinzial Sophienblatt,14,1.8235294117647058
+Provinzial Sophienblatt,15,2.3529411764705883
+Provinzial Sophienblatt,16,1.9411764705882353
+Provinzial Sophienblatt,17,1.4705882352941178
+Provinzial Sophienblatt,18,1.7058823529411764
+Provinzial Sophienblatt,19,1.588235294117647
+Provinzial Sophienblatt,20,1.3529411764705883
+Provinzial Sophienblatt,21,1.1764705882352942
+Provinzial Sophienblatt,22,1.0
+Provinzial Sophienblatt,23,1.0588235294117647
+KVG Betriebshof Diedrichstraße,0,0.9411764705882353
+KVG Betriebshof Diedrichstraße,1,1.0
+KVG Betriebshof Diedrichstraße,2,1.0588235294117647
+KVG Betriebshof Diedrichstraße,3,1.411764705882353
+KVG Betriebshof Diedrichstraße,4,1.7058823529411764
+KVG Betriebshof Diedrichstraße,5,1.1176470588235294
+KVG Betriebshof Diedrichstraße,6,0.8235294117647058
+KVG Betriebshof Diedrichstraße,7,1.2941176470588236
+KVG Betriebshof Diedrichstraße,8,0.8823529411764706
+KVG Betriebshof Diedrichstraße,9,1.3529411764705883
+KVG Betriebshof Diedrichstraße,10,1.3529411764705883
+KVG Betriebshof Diedrichstraße,11,1.588235294117647
+KVG Betriebshof Diedrichstraße,12,1.7647058823529411
+KVG Betriebshof Diedrichstraße,13,1.588235294117647
+KVG Betriebshof Diedrichstraße,14,1.411764705882353
+KVG Betriebshof Diedrichstraße,15,1.7647058823529411
+KVG Betriebshof Diedrichstraße,16,1.5294117647058822
+KVG Betriebshof Diedrichstraße,17,1.7058823529411764
+KVG Betriebshof Diedrichstraße,18,1.3529411764705883
+KVG Betriebshof Diedrichstraße,19,1.3529411764705883
+KVG Betriebshof Diedrichstraße,20,1.1764705882352942
+KVG Betriebshof Diedrichstraße,21,0.8823529411764706
+KVG Betriebshof Diedrichstraße,22,0.9411764705882353
+KVG Betriebshof Diedrichstraße,23,1.2352941176470589
+Wellingdorf Stadtteilzentrum,0,1.0588235294117647
+Wellingdorf Stadtteilzentrum,1,0.9411764705882353
+Wellingdorf Stadtteilzentrum,2,1.1764705882352942
+Wellingdorf Stadtteilzentrum,3,0.9411764705882353
+Wellingdorf Stadtteilzentrum,4,1.0588235294117647
+Wellingdorf Stadtteilzentrum,5,1.2941176470588236
+Wellingdorf Stadtteilzentrum,6,1.411764705882353
+Wellingdorf Stadtteilzentrum,7,1.0
+Wellingdorf Stadtteilzentrum,8,1.1176470588235294
+Wellingdorf Stadtteilzentrum,9,1.0588235294117647
+Wellingdorf Stadtteilzentrum,10,1.1176470588235294
+Wellingdorf Stadtteilzentrum,11,1.1764705882352942
+Wellingdorf Stadtteilzentrum,12,1.3529411764705883
+Wellingdorf Stadtteilzentrum,13,1.3529411764705883
+Wellingdorf Stadtteilzentrum,14,1.411764705882353
+Wellingdorf Stadtteilzentrum,15,2.0588235294117645
+Wellingdorf Stadtteilzentrum,16,1.4705882352941178
+Wellingdorf Stadtteilzentrum,17,1.8235294117647058
+Wellingdorf Stadtteilzentrum,18,1.2352941176470589
+Wellingdorf Stadtteilzentrum,19,1.1176470588235294
+Wellingdorf Stadtteilzentrum,20,1.1176470588235294
+Wellingdorf Stadtteilzentrum,21,1.0
+Wellingdorf Stadtteilzentrum,22,1.0
+Wellingdorf Stadtteilzentrum,23,1.0588235294117647
+Bahnhof Oppendorf,0,1.1764705882352942
+Bahnhof Oppendorf,1,0.9411764705882353
+Bahnhof Oppendorf,2,1.1176470588235294
+Bahnhof Oppendorf,3,0.9411764705882353
+Bahnhof Oppendorf,4,1.2352941176470589
+Bahnhof Oppendorf,5,0.9411764705882353
+Bahnhof Oppendorf,6,0.8235294117647058
+Bahnhof Oppendorf,7,0.8235294117647058
+Bahnhof Oppendorf,8,0.9411764705882353
+Bahnhof Oppendorf,9,1.0
+Bahnhof Oppendorf,10,1.0
+Bahnhof Oppendorf,11,0.8823529411764706
+Bahnhof Oppendorf,12,1.0588235294117647
+Bahnhof Oppendorf,13,1.411764705882353
+Bahnhof Oppendorf,14,0.9411764705882353
+Bahnhof Oppendorf,15,1.0
+Bahnhof Oppendorf,16,0.9411764705882353
+Bahnhof Oppendorf,17,1.1176470588235294
+Bahnhof Oppendorf,18,0.9411764705882353
+Bahnhof Oppendorf,19,1.0
+Bahnhof Oppendorf,20,0.8823529411764706
+Bahnhof Oppendorf,21,0.8823529411764706
+Bahnhof Oppendorf,22,0.8823529411764706
+Bahnhof Oppendorf,23,0.9411764705882353
+thyssenkrupp Marine Systems,0,1.0588235294117647
+thyssenkrupp Marine Systems,1,0.9411764705882353
+thyssenkrupp Marine Systems,2,1.5294117647058822
+thyssenkrupp Marine Systems,3,1.0
+thyssenkrupp Marine Systems,4,2.1176470588235294
+thyssenkrupp Marine Systems,5,2.6470588235294117
+thyssenkrupp Marine Systems,6,2.1176470588235294
+thyssenkrupp Marine Systems,7,2.6470588235294117
+thyssenkrupp Marine Systems,8,1.0
+thyssenkrupp Marine Systems,9,1.4705882352941178
+thyssenkrupp Marine Systems,10,2.176470588235294
+thyssenkrupp Marine Systems,11,1.7647058823529411
+thyssenkrupp Marine Systems,12,2.411764705882353
+thyssenkrupp Marine Systems,13,2.5294117647058822
+thyssenkrupp Marine Systems,14,3.0588235294117645
+thyssenkrupp Marine Systems,15,3.1176470588235294
+thyssenkrupp Marine Systems,16,1.8823529411764706
+thyssenkrupp Marine Systems,17,2.0
+thyssenkrupp Marine Systems,18,1.6470588235294117
+thyssenkrupp Marine Systems,19,1.0588235294117647
+thyssenkrupp Marine Systems,20,1.2352941176470589
+thyssenkrupp Marine Systems,21,1.0
+thyssenkrupp Marine Systems,22,1.0
+thyssenkrupp Marine Systems,23,1.0588235294117647
+Russeer Weg / Hofholzallee,0,1.0
+Russeer Weg / Hofholzallee,1,1.0
+Russeer Weg / Hofholzallee,2,1.1764705882352942
+Russeer Weg / Hofholzallee,3,0.9411764705882353
+Russeer Weg / Hofholzallee,4,1.1764705882352942
+Russeer Weg / Hofholzallee,5,0.8235294117647058
+Russeer Weg / Hofholzallee,6,0.7647058823529411
+Russeer Weg / Hofholzallee,7,0.7647058823529411
+Russeer Weg / Hofholzallee,8,0.9411764705882353
+Russeer Weg / Hofholzallee,9,0.8823529411764706
+Russeer Weg / Hofholzallee,10,1.0
+Russeer Weg / Hofholzallee,11,1.0588235294117647
+Russeer Weg / Hofholzallee,12,1.0588235294117647
+Russeer Weg / Hofholzallee,13,1.1176470588235294
+Russeer Weg / Hofholzallee,14,1.1176470588235294
+Russeer Weg / Hofholzallee,15,1.2352941176470589
+Russeer Weg / Hofholzallee,16,1.1176470588235294
+Russeer Weg / Hofholzallee,17,1.0588235294117647
+Russeer Weg / Hofholzallee,18,1.1176470588235294
+Russeer Weg / Hofholzallee,19,1.2941176470588236
+Russeer Weg / Hofholzallee,20,1.3529411764705883
+Russeer Weg / Hofholzallee,21,1.0
+Russeer Weg / Hofholzallee,22,0.8823529411764706
+Russeer Weg / Hofholzallee,23,0.8823529411764706
+Wilhelmplatz,0,1.8235294117647058
+Wilhelmplatz,1,1.7647058823529411
+Wilhelmplatz,2,1.6470588235294117
+Wilhelmplatz,3,1.1176470588235294
+Wilhelmplatz,4,1.588235294117647
+Wilhelmplatz,5,2.0588235294117645
+Wilhelmplatz,6,1.8235294117647058
+Wilhelmplatz,7,2.0588235294117645
+Wilhelmplatz,8,2.5294117647058822
+Wilhelmplatz,9,3.235294117647059
+Wilhelmplatz,10,3.0
+Wilhelmplatz,11,2.411764705882353
+Wilhelmplatz,12,4.0588235294117645
+Wilhelmplatz,13,2.823529411764706
+Wilhelmplatz,14,3.1176470588235294
+Wilhelmplatz,15,3.3529411764705883
+Wilhelmplatz,16,3.9411764705882355
+Wilhelmplatz,17,4.294117647058823
+Wilhelmplatz,18,3.1176470588235294
+Wilhelmplatz,19,2.588235294117647
+Wilhelmplatz,20,2.6470588235294117
+Wilhelmplatz,21,2.0
+Wilhelmplatz,22,1.588235294117647
+Wilhelmplatz,23,1.6470588235294117
+Anleger Dietrichsdorf,0,1.2941176470588236
+Anleger Dietrichsdorf,1,1.0
+Anleger Dietrichsdorf,2,1.3529411764705883
+Anleger Dietrichsdorf,3,0.9411764705882353
+Anleger Dietrichsdorf,4,1.2941176470588236
+Anleger Dietrichsdorf,5,0.8823529411764706
+Anleger Dietrichsdorf,6,1.0
+Anleger Dietrichsdorf,7,1.1176470588235294
+Anleger Dietrichsdorf,8,1.1176470588235294
+Anleger Dietrichsdorf,9,1.411764705882353
+Anleger Dietrichsdorf,10,1.2941176470588236
+Anleger Dietrichsdorf,11,1.5294117647058822
+Anleger Dietrichsdorf,12,1.411764705882353
+Anleger Dietrichsdorf,13,1.5294117647058822
+Anleger Dietrichsdorf,14,2.0
+Anleger Dietrichsdorf,15,1.2352941176470589
+Anleger Dietrichsdorf,16,2.0588235294117645
+Anleger Dietrichsdorf,17,1.1764705882352942
+Anleger Dietrichsdorf,18,0.9411764705882353
+Anleger Dietrichsdorf,19,1.0588235294117647
+Anleger Dietrichsdorf,20,1.2352941176470589
+Anleger Dietrichsdorf,21,0.9411764705882353
+Anleger Dietrichsdorf,22,1.0
+Anleger Dietrichsdorf,23,1.0588235294117647
+Aalborgring,0,0.35294117647058826
+Aalborgring,1,0.35294117647058826
+Aalborgring,2,0.35294117647058826
+Aalborgring,3,0.35294117647058826
+Aalborgring,4,0.5294117647058824
+Aalborgring,5,0.35294117647058826
+Aalborgring,6,0.29411764705882354
+Aalborgring,7,0.29411764705882354
+Aalborgring,8,0.5294117647058824
+Aalborgring,9,0.4117647058823529
+Aalborgring,10,0.4117647058823529
+Aalborgring,11,0.4117647058823529
+Aalborgring,12,0.29411764705882354
+Aalborgring,13,0.29411764705882354
+Aalborgring,14,0.35294117647058826
+Aalborgring,15,0.29411764705882354
+Aalborgring,16,0.29411764705882354
+Aalborgring,17,0.17647058823529413
+Aalborgring,18,0.17647058823529413
+Aalborgring,19,0.17647058823529413
+Aalborgring,20,0.29411764705882354
+Aalborgring,21,0.4117647058823529
+Aalborgring,22,0.29411764705882354
+Aalborgring,23,0.29411764705882354
+Fähranleger Möltenort,0,0.5882352941176471
+Fähranleger Möltenort,1,0.5294117647058824
+Fähranleger Möltenort,2,0.6470588235294118
+Fähranleger Möltenort,3,0.5294117647058824
+Fähranleger Möltenort,4,0.5882352941176471
+Fähranleger Möltenort,5,0.4117647058823529
+Fähranleger Möltenort,6,0.4117647058823529
+Fähranleger Möltenort,7,0.4117647058823529
+Fähranleger Möltenort,8,0.4117647058823529
+Fähranleger Möltenort,9,0.4117647058823529
+Fähranleger Möltenort,10,0.4117647058823529
+Fähranleger Möltenort,11,0.4117647058823529
+Fähranleger Möltenort,12,0.4117647058823529
+Fähranleger Möltenort,13,0.4117647058823529
+Fähranleger Möltenort,14,0.6470588235294118
+Fähranleger Möltenort,15,0.5882352941176471
+Fähranleger Möltenort,16,0.7058823529411765
+Fähranleger Möltenort,17,0.5294117647058824
+Fähranleger Möltenort,18,0.5882352941176471
+Fähranleger Möltenort,19,0.5294117647058824
+Fähranleger Möltenort,20,0.5294117647058824
+Fähranleger Möltenort,21,0.5294117647058824
+Fähranleger Möltenort,22,0.5294117647058824
+Fähranleger Möltenort,23,0.5294117647058824
+Schönkirchen Gemeindehaus,0,0.8823529411764706
+Schönkirchen Gemeindehaus,1,0.8823529411764706
+Schönkirchen Gemeindehaus,2,1.0
+Schönkirchen Gemeindehaus,3,0.8235294117647058
+Schönkirchen Gemeindehaus,4,0.9411764705882353
+Schönkirchen Gemeindehaus,5,0.7058823529411765
+Schönkirchen Gemeindehaus,6,0.6470588235294118
+Schönkirchen Gemeindehaus,7,0.7647058823529411
+Schönkirchen Gemeindehaus,8,0.7058823529411765
+Schönkirchen Gemeindehaus,9,0.7058823529411765
+Schönkirchen Gemeindehaus,10,0.7058823529411765
+Schönkirchen Gemeindehaus,11,0.8235294117647058
+Schönkirchen Gemeindehaus,12,0.9411764705882353
+Schönkirchen Gemeindehaus,13,0.7647058823529411
+Schönkirchen Gemeindehaus,14,0.7647058823529411
+Schönkirchen Gemeindehaus,15,0.6470588235294118
+Schönkirchen Gemeindehaus,16,0.6470588235294118
+Schönkirchen Gemeindehaus,17,0.8235294117647058
+Schönkirchen Gemeindehaus,18,0.7058823529411765
+Schönkirchen Gemeindehaus,19,0.7647058823529411
+Schönkirchen Gemeindehaus,20,0.7058823529411765
+Schönkirchen Gemeindehaus,21,0.9411764705882353
+Schönkirchen Gemeindehaus,22,0.8235294117647058
+Schönkirchen Gemeindehaus,23,0.8235294117647058
+Marine-Ehrenmal,0,0.7058823529411765
+Marine-Ehrenmal,1,0.7058823529411765
+Marine-Ehrenmal,2,0.7647058823529411
+Marine-Ehrenmal,3,0.6470588235294118
+Marine-Ehrenmal,4,0.7058823529411765
+Marine-Ehrenmal,5,0.6470588235294118
+Marine-Ehrenmal,6,0.6470588235294118
+Marine-Ehrenmal,7,0.6470588235294118
+Marine-Ehrenmal,8,0.6470588235294118
+Marine-Ehrenmal,9,0.6470588235294118
+Marine-Ehrenmal,10,0.7058823529411765
+Marine-Ehrenmal,11,0.7058823529411765
+Marine-Ehrenmal,12,0.7647058823529411
+Marine-Ehrenmal,13,0.6470588235294118
+Marine-Ehrenmal,14,0.7058823529411765
+Marine-Ehrenmal,15,1.2352941176470589
+Marine-Ehrenmal,16,0.8235294117647058
+Marine-Ehrenmal,17,0.8823529411764706
+Marine-Ehrenmal,18,0.8235294117647058
+Marine-Ehrenmal,19,1.0588235294117647
+Marine-Ehrenmal,20,0.7647058823529411
+Marine-Ehrenmal,21,0.7058823529411765
+Marine-Ehrenmal,22,0.7058823529411765
+Marine-Ehrenmal,23,0.7058823529411765
+Bunsenstraße,0,0.11764705882352941
+Bunsenstraße,1,0.11764705882352941
+Bunsenstraße,2,0.11764705882352941
+Bunsenstraße,3,0.11764705882352941
+Bunsenstraße,4,0.11764705882352941
+Bunsenstraße,5,0.058823529411764705
+Bunsenstraße,6,0.058823529411764705
+Bunsenstraße,7,0.058823529411764705
+Bunsenstraße,8,0.058823529411764705
+Bunsenstraße,9,0.058823529411764705
+Bunsenstraße,10,0.058823529411764705
+Bunsenstraße,11,0.058823529411764705
+Bunsenstraße,12,0.058823529411764705
+Bunsenstraße,13,0.058823529411764705
+Bunsenstraße,14,0.058823529411764705
+Bunsenstraße,15,0.11764705882352941
+Bunsenstraße,16,0.058823529411764705
+Bunsenstraße,17,0.058823529411764705
+Bunsenstraße,18,0.058823529411764705
+Bunsenstraße,19,0.058823529411764705
+Bunsenstraße,20,0.058823529411764705
+Bunsenstraße,21,0.058823529411764705
+Bunsenstraße,22,0.058823529411764705
+Bunsenstraße,23,0.058823529411764705
+Bullbrücke,0,0.23529411764705882
+Bullbrücke,1,0.23529411764705882
+Bullbrücke,2,0.23529411764705882
+Bullbrücke,3,0.23529411764705882
+Bullbrücke,4,0.29411764705882354
+Bullbrücke,5,0.17647058823529413
+Bullbrücke,6,0.17647058823529413
+Bullbrücke,7,0.17647058823529413
+Bullbrücke,8,0.17647058823529413
+Bullbrücke,9,0.17647058823529413
+Bullbrücke,10,0.17647058823529413
+Bullbrücke,11,0.17647058823529413
+Bullbrücke,12,0.23529411764705882
+Bullbrücke,13,0.23529411764705882
+Bullbrücke,14,0.17647058823529413
+Bullbrücke,15,0.35294117647058826
+Bullbrücke,16,0.35294117647058826
+Bullbrücke,17,0.23529411764705882
+Bullbrücke,18,0.23529411764705882
+Bullbrücke,19,0.23529411764705882
+Bullbrücke,20,0.23529411764705882
+Bullbrücke,21,0.23529411764705882
+Bullbrücke,22,0.23529411764705882
+Bullbrücke,23,0.23529411764705882
+Kuhlacker,0,0.47058823529411764
+Kuhlacker,1,0.47058823529411764
+Kuhlacker,2,0.5294117647058824
+Kuhlacker,3,0.4117647058823529
+Kuhlacker,4,0.47058823529411764
+Kuhlacker,5,0.35294117647058826
+Kuhlacker,6,0.4117647058823529
+Kuhlacker,7,0.4117647058823529
+Kuhlacker,8,0.4117647058823529
+Kuhlacker,9,0.4117647058823529
+Kuhlacker,10,0.4117647058823529
+Kuhlacker,11,0.4117647058823529
+Kuhlacker,12,0.4117647058823529
+Kuhlacker,13,0.4117647058823529
+Kuhlacker,14,0.35294117647058826
+Kuhlacker,15,0.35294117647058826
+Kuhlacker,16,0.35294117647058826
+Kuhlacker,17,0.4117647058823529
+Kuhlacker,18,0.4117647058823529
+Kuhlacker,19,0.4117647058823529
+Kuhlacker,20,0.4117647058823529
+Kuhlacker,21,0.4117647058823529
+Kuhlacker,22,0.4117647058823529
+Kuhlacker,23,0.4117647058823529
+Rathaus Heikendorf,0,0.4117647058823529
+Rathaus Heikendorf,1,0.4117647058823529
+Rathaus Heikendorf,2,0.5294117647058824
+Rathaus Heikendorf,3,0.35294117647058826
+Rathaus Heikendorf,4,0.35294117647058826
+Rathaus Heikendorf,5,0.4117647058823529
+Rathaus Heikendorf,6,0.35294117647058826
+Rathaus Heikendorf,7,0.35294117647058826
+Rathaus Heikendorf,8,0.35294117647058826
+Rathaus Heikendorf,9,0.35294117647058826
+Rathaus Heikendorf,10,0.35294117647058826
+Rathaus Heikendorf,11,0.4117647058823529
+Rathaus Heikendorf,12,0.47058823529411764
+Rathaus Heikendorf,13,0.4117647058823529
+Rathaus Heikendorf,14,0.4117647058823529
+Rathaus Heikendorf,15,0.5882352941176471
+Rathaus Heikendorf,16,0.5294117647058824
+Rathaus Heikendorf,17,0.47058823529411764
+Rathaus Heikendorf,18,0.4117647058823529
+Rathaus Heikendorf,19,0.4117647058823529
+Rathaus Heikendorf,20,0.4117647058823529
+Rathaus Heikendorf,21,0.4117647058823529
+Rathaus Heikendorf,22,0.4117647058823529
+Rathaus Heikendorf,23,0.4117647058823529
+Förde Sparkasse Teplitzer Allee,0,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,1,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,2,0.8235294117647058
+Förde Sparkasse Teplitzer Allee,3,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,4,0.7647058823529411
+Förde Sparkasse Teplitzer Allee,5,0.5882352941176471
+Förde Sparkasse Teplitzer Allee,6,0.5294117647058824
+Förde Sparkasse Teplitzer Allee,7,0.5294117647058824
+Förde Sparkasse Teplitzer Allee,8,0.5294117647058824
+Förde Sparkasse Teplitzer Allee,9,0.5294117647058824
+Förde Sparkasse Teplitzer Allee,10,0.5882352941176471
+Förde Sparkasse Teplitzer Allee,11,0.5882352941176471
+Förde Sparkasse Teplitzer Allee,12,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,13,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,14,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,15,0.7058823529411765
+Förde Sparkasse Teplitzer Allee,16,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,17,0.7647058823529411
+Förde Sparkasse Teplitzer Allee,18,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,19,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,20,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,21,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,22,0.6470588235294118
+Förde Sparkasse Teplitzer Allee,23,0.6470588235294118
+Bahnhof Russee,0,0.8235294117647058
+Bahnhof Russee,1,0.7647058823529411
+Bahnhof Russee,2,0.7647058823529411
+Bahnhof Russee,3,0.7647058823529411
+Bahnhof Russee,4,1.0
+Bahnhof Russee,5,0.6470588235294118
+Bahnhof Russee,6,0.6470588235294118
+Bahnhof Russee,7,0.6470588235294118
+Bahnhof Russee,8,0.7058823529411765
+Bahnhof Russee,9,0.7647058823529411
+Bahnhof Russee,10,0.7647058823529411
+Bahnhof Russee,11,0.8823529411764706
+Bahnhof Russee,12,0.8235294117647058
+Bahnhof Russee,13,1.1176470588235294
+Bahnhof Russee,14,1.0588235294117647
+Bahnhof Russee,15,0.8235294117647058
+Bahnhof Russee,16,0.8823529411764706
+Bahnhof Russee,17,0.8235294117647058
+Bahnhof Russee,18,0.8823529411764706
+Bahnhof Russee,19,0.9411764705882353
+Bahnhof Russee,20,0.8235294117647058
+Bahnhof Russee,21,0.8235294117647058
+Bahnhof Russee,22,0.7647058823529411
+Bahnhof Russee,23,0.7647058823529411
+Bebelplatz,0,0.29411764705882354
+Bebelplatz,1,0.29411764705882354
+Bebelplatz,2,0.29411764705882354
+Bebelplatz,3,0.29411764705882354
+Bebelplatz,4,0.29411764705882354
+Bebelplatz,5,0.29411764705882354
+Bebelplatz,6,0.29411764705882354
+Bebelplatz,7,0.29411764705882354
+Bebelplatz,8,0.29411764705882354
+Bebelplatz,9,0.29411764705882354
+Bebelplatz,10,0.35294117647058826
+Bebelplatz,11,0.35294117647058826
+Bebelplatz,12,0.29411764705882354
+Bebelplatz,13,0.23529411764705882
+Bebelplatz,14,0.47058823529411764
+Bebelplatz,15,0.4117647058823529
+Bebelplatz,16,0.47058823529411764
+Bebelplatz,17,0.35294117647058826
+Bebelplatz,18,0.35294117647058826
+Bebelplatz,19,0.29411764705882354
+Bebelplatz,20,0.29411764705882354
+Bebelplatz,21,0.29411764705882354
+Bebelplatz,22,0.29411764705882354
+Bebelplatz,23,0.29411764705882354
+Seefischmarkt,0,0.7058823529411765
+Seefischmarkt,1,0.7058823529411765
+Seefischmarkt,2,0.7647058823529411
+Seefischmarkt,3,0.7058823529411765
+Seefischmarkt,4,0.7647058823529411
+Seefischmarkt,5,0.6470588235294118
+Seefischmarkt,6,0.7058823529411765
+Seefischmarkt,7,1.0
+Seefischmarkt,8,0.8235294117647058
+Seefischmarkt,9,0.8235294117647058
+Seefischmarkt,10,0.7647058823529411
+Seefischmarkt,11,1.1764705882352942
+Seefischmarkt,12,0.7647058823529411
+Seefischmarkt,13,1.0
+Seefischmarkt,14,0.7647058823529411
+Seefischmarkt,15,0.9411764705882353
+Seefischmarkt,16,1.0
+Seefischmarkt,17,1.0588235294117647
+Seefischmarkt,18,0.7647058823529411
+Seefischmarkt,19,0.7058823529411765
+Seefischmarkt,20,0.7058823529411765
+Seefischmarkt,21,0.6470588235294118
+Seefischmarkt,22,0.6470588235294118
+Seefischmarkt,23,0.6470588235294118
+Umsteiger,0,1.1764705882352942
+Umsteiger,1,1.0
+Umsteiger,2,1.3529411764705883
+Umsteiger,3,1.1764705882352942
+Umsteiger,4,1.1176470588235294
+Umsteiger,5,1.2941176470588236
+Umsteiger,6,1.6470588235294117
+Umsteiger,7,1.588235294117647
+Umsteiger,8,1.4705882352941178
+Umsteiger,9,1.2352941176470589
+Umsteiger,10,1.5294117647058822
+Umsteiger,11,2.0
+Umsteiger,12,2.0
+Umsteiger,13,1.4705882352941178
+Umsteiger,14,1.6470588235294117
+Umsteiger,15,1.9411764705882353
+Umsteiger,16,1.8823529411764706
+Umsteiger,17,1.4705882352941178
+Umsteiger,18,1.2941176470588236
+Umsteiger,19,1.2941176470588236
+Umsteiger,20,1.5294117647058822
+Umsteiger,21,1.1764705882352942
+Umsteiger,22,1.411764705882353
+Umsteiger,23,1.411764705882353
+Tilsiter Platz,0,0.9411764705882353
+Tilsiter Platz,1,0.9411764705882353
+Tilsiter Platz,2,1.2352941176470589
+Tilsiter Platz,3,0.9411764705882353
+Tilsiter Platz,4,1.0588235294117647
+Tilsiter Platz,5,0.8823529411764706
+Tilsiter Platz,6,0.8235294117647058
+Tilsiter Platz,7,1.0588235294117647
+Tilsiter Platz,8,1.2941176470588236
+Tilsiter Platz,9,1.1176470588235294
+Tilsiter Platz,10,1.7058823529411764
+Tilsiter Platz,11,1.2941176470588236
+Tilsiter Platz,12,1.7058823529411764
+Tilsiter Platz,13,1.7647058823529411
+Tilsiter Platz,14,2.411764705882353
+Tilsiter Platz,15,1.7058823529411764
+Tilsiter Platz,16,1.7058823529411764
+Tilsiter Platz,17,1.5294117647058822
+Tilsiter Platz,18,1.3529411764705883
+Tilsiter Platz,19,1.7647058823529411
+Tilsiter Platz,20,1.1176470588235294
+Tilsiter Platz,21,1.0588235294117647
+Tilsiter Platz,22,1.1176470588235294
+Tilsiter Platz,23,1.0
+Braunstraße,0,0.5882352941176471
+Braunstraße,1,0.5882352941176471
+Braunstraße,2,0.5882352941176471
+Braunstraße,3,0.5882352941176471
+Braunstraße,4,0.5882352941176471
+Braunstraße,5,0.5294117647058824
+Braunstraße,6,0.5294117647058824
+Braunstraße,7,0.7058823529411765
+Braunstraße,8,0.5882352941176471
+Braunstraße,9,0.6470588235294118
+Braunstraße,10,0.6470588235294118
+Braunstraße,11,0.6470588235294118
+Braunstraße,12,0.6470588235294118
+Braunstraße,13,0.7647058823529411
+Braunstraße,14,0.7058823529411765
+Braunstraße,15,0.8235294117647058
+Braunstraße,16,0.6470588235294118
+Braunstraße,17,0.5294117647058824
+Braunstraße,18,0.5294117647058824
+Braunstraße,19,0.5294117647058824
+Braunstraße,20,0.5294117647058824
+Braunstraße,21,0.5294117647058824
+Braunstraße,22,0.5294117647058824
+Braunstraße,23,0.5294117647058824
+Christian-Albrechts-Platz,0,1.1764705882352942
+Christian-Albrechts-Platz,1,1.1764705882352942
+Christian-Albrechts-Platz,2,1.0588235294117647
+Christian-Albrechts-Platz,3,1.0
+Christian-Albrechts-Platz,4,1.0
+Christian-Albrechts-Platz,5,0.8823529411764706
+Christian-Albrechts-Platz,6,0.8235294117647058
+Christian-Albrechts-Platz,7,1.411764705882353
+Christian-Albrechts-Platz,8,1.7647058823529411
+Christian-Albrechts-Platz,9,1.8823529411764706
+Christian-Albrechts-Platz,10,2.6470588235294117
+Christian-Albrechts-Platz,11,2.4705882352941178
+Christian-Albrechts-Platz,12,2.0
+Christian-Albrechts-Platz,13,1.2941176470588236
+Christian-Albrechts-Platz,14,1.6470588235294117
+Christian-Albrechts-Platz,15,1.2352941176470589
+Christian-Albrechts-Platz,16,1.2352941176470589
+Christian-Albrechts-Platz,17,1.2352941176470589
+Christian-Albrechts-Platz,18,1.6470588235294117
+Christian-Albrechts-Platz,19,1.2352941176470589
+Christian-Albrechts-Platz,20,1.1764705882352942
+Christian-Albrechts-Platz,21,1.1176470588235294
+Christian-Albrechts-Platz,22,0.9411764705882353
+Christian-Albrechts-Platz,23,0.8823529411764706
+CITTI-PARK,0,0.9411764705882353
+CITTI-PARK,1,0.9411764705882353
+CITTI-PARK,2,1.0588235294117647
+CITTI-PARK,3,0.9411764705882353
+CITTI-PARK,4,1.2352941176470589
+CITTI-PARK,5,1.1764705882352942
+CITTI-PARK,6,1.1764705882352942
+CITTI-PARK,7,1.1176470588235294
+CITTI-PARK,8,1.4705882352941178
+CITTI-PARK,9,1.3529411764705883
+CITTI-PARK,10,1.588235294117647
+CITTI-PARK,11,1.588235294117647
+CITTI-PARK,12,1.7647058823529411
+CITTI-PARK,13,1.9411764705882353
+CITTI-PARK,14,2.0588235294117645
+CITTI-PARK,15,2.0588235294117645
+CITTI-PARK,16,2.3529411764705883
+CITTI-PARK,17,1.8823529411764706
+CITTI-PARK,18,1.5294117647058822
+CITTI-PARK,19,1.1176470588235294
+CITTI-PARK,20,1.0588235294117647
+CITTI-PARK,21,1.1176470588235294
+CITTI-PARK,22,1.0
+CITTI-PARK,23,1.0588235294117647
+Grot Steenbusch,0,0.4117647058823529
+Grot Steenbusch,1,0.4117647058823529
+Grot Steenbusch,2,0.47058823529411764
+Grot Steenbusch,3,0.4117647058823529
+Grot Steenbusch,4,0.4117647058823529
+Grot Steenbusch,5,0.35294117647058826
+Grot Steenbusch,6,0.35294117647058826
+Grot Steenbusch,7,0.35294117647058826
+Grot Steenbusch,8,0.35294117647058826
+Grot Steenbusch,9,0.4117647058823529
+Grot Steenbusch,10,0.47058823529411764
+Grot Steenbusch,11,0.4117647058823529
+Grot Steenbusch,12,0.35294117647058826
+Grot Steenbusch,13,0.35294117647058826
+Grot Steenbusch,14,0.35294117647058826
+Grot Steenbusch,15,0.35294117647058826
+Grot Steenbusch,16,0.35294117647058826
+Grot Steenbusch,17,0.35294117647058826
+Grot Steenbusch,18,0.4117647058823529
+Grot Steenbusch,19,0.47058823529411764
+Grot Steenbusch,20,0.29411764705882354
+Grot Steenbusch,21,0.29411764705882354
+Grot Steenbusch,22,0.29411764705882354
+Grot Steenbusch,23,0.35294117647058826
+Meimersdorf Kontor,0,0.5294117647058824
+Meimersdorf Kontor,1,0.5294117647058824
+Meimersdorf Kontor,2,0.5294117647058824
+Meimersdorf Kontor,3,0.47058823529411764
+Meimersdorf Kontor,4,0.47058823529411764
+Meimersdorf Kontor,5,0.35294117647058826
+Meimersdorf Kontor,6,0.35294117647058826
+Meimersdorf Kontor,7,0.35294117647058826
+Meimersdorf Kontor,8,0.4117647058823529
+Meimersdorf Kontor,9,0.47058823529411764
+Meimersdorf Kontor,10,0.47058823529411764
+Meimersdorf Kontor,11,0.47058823529411764
+Meimersdorf Kontor,12,0.5294117647058824
+Meimersdorf Kontor,13,0.5294117647058824
+Meimersdorf Kontor,14,0.5294117647058824
+Meimersdorf Kontor,15,0.5882352941176471
+Meimersdorf Kontor,16,0.5882352941176471
+Meimersdorf Kontor,17,0.6470588235294118
+Meimersdorf Kontor,18,0.47058823529411764
+Meimersdorf Kontor,19,0.47058823529411764
+Meimersdorf Kontor,20,0.5294117647058824
+Meimersdorf Kontor,21,0.47058823529411764
+Meimersdorf Kontor,22,0.47058823529411764
+Meimersdorf Kontor,23,0.47058823529411764
+Sophienhof,0,1.0588235294117647
+Sophienhof,1,0.9411764705882353
+Sophienhof,2,1.2352941176470589
+Sophienhof,3,1.0
+Sophienhof,4,1.588235294117647
+Sophienhof,5,1.3529411764705883
+Sophienhof,6,1.6470588235294117
+Sophienhof,7,2.0588235294117645
+Sophienhof,8,1.4705882352941178
+Sophienhof,9,1.2941176470588236
+Sophienhof,10,1.6470588235294117
+Sophienhof,11,1.4705882352941178
+Sophienhof,12,1.5294117647058822
+Sophienhof,13,1.4705882352941178
+Sophienhof,14,1.9411764705882353
+Sophienhof,15,2.0588235294117645
+Sophienhof,16,1.9411764705882353
+Sophienhof,17,1.4705882352941178
+Sophienhof,18,1.3529411764705883
+Sophienhof,19,1.1764705882352942
+Sophienhof,20,1.411764705882353
+Sophienhof,21,1.0588235294117647
+Sophienhof,22,1.1176470588235294
+Sophienhof,23,1.0
+Kronshagen Rathaus,0,1.1764705882352942
+Kronshagen Rathaus,1,1.0
+Kronshagen Rathaus,2,1.2941176470588236
+Kronshagen Rathaus,3,1.0588235294117647
+Kronshagen Rathaus,4,1.2352941176470589
+Kronshagen Rathaus,5,1.1176470588235294
+Kronshagen Rathaus,6,1.1176470588235294
+Kronshagen Rathaus,7,0.8235294117647058
+Kronshagen Rathaus,8,1.0
+Kronshagen Rathaus,9,1.2352941176470589
+Kronshagen Rathaus,10,1.0588235294117647
+Kronshagen Rathaus,11,1.1176470588235294
+Kronshagen Rathaus,12,1.0588235294117647
+Kronshagen Rathaus,13,1.3529411764705883
+Kronshagen Rathaus,14,1.1176470588235294
+Kronshagen Rathaus,15,1.2941176470588236
+Kronshagen Rathaus,16,1.1764705882352942
+Kronshagen Rathaus,17,1.411764705882353
+Kronshagen Rathaus,18,1.4705882352941178
+Kronshagen Rathaus,19,1.4705882352941178
+Kronshagen Rathaus,20,1.3529411764705883
+Kronshagen Rathaus,21,1.0
+Kronshagen Rathaus,22,1.1764705882352942
+Kronshagen Rathaus,23,0.9411764705882353
+ADAC-Station,0,1.0588235294117647
+ADAC-Station,1,1.0
+ADAC-Station,2,1.2941176470588236
+ADAC-Station,3,1.2352941176470589
+ADAC-Station,4,1.2941176470588236
+ADAC-Station,5,0.9411764705882353
+ADAC-Station,6,1.1176470588235294
+ADAC-Station,7,1.0588235294117647
+ADAC-Station,8,1.3529411764705883
+ADAC-Station,9,1.1764705882352942
+ADAC-Station,10,1.1176470588235294
+ADAC-Station,11,1.411764705882353
+ADAC-Station,12,1.8823529411764706
+ADAC-Station,13,1.1764705882352942
+ADAC-Station,14,1.588235294117647
+ADAC-Station,15,1.8823529411764706
+ADAC-Station,16,1.7647058823529411
+ADAC-Station,17,1.411764705882353
+ADAC-Station,18,1.2941176470588236
+ADAC-Station,19,1.0588235294117647
+ADAC-Station,20,1.411764705882353
+ADAC-Station,21,1.1176470588235294
+ADAC-Station,22,1.2941176470588236
+ADAC-Station,23,1.0
+Hafen Laboe,0,0.8823529411764706
+Hafen Laboe,1,0.8235294117647058
+Hafen Laboe,2,1.1176470588235294
+Hafen Laboe,3,0.8235294117647058
+Hafen Laboe,4,0.9411764705882353
+Hafen Laboe,5,0.7058823529411765
+Hafen Laboe,6,0.6470588235294118
+Hafen Laboe,7,0.6470588235294118
+Hafen Laboe,8,0.7647058823529411
+Hafen Laboe,9,0.7647058823529411
+Hafen Laboe,10,1.0
+Hafen Laboe,11,0.9411764705882353
+Hafen Laboe,12,1.0
+Hafen Laboe,13,0.9411764705882353
+Hafen Laboe,14,1.0588235294117647
+Hafen Laboe,15,1.5294117647058822
+Hafen Laboe,16,1.0588235294117647
+Hafen Laboe,17,1.0
+Hafen Laboe,18,0.8235294117647058
+Hafen Laboe,19,1.0588235294117647
+Hafen Laboe,20,0.8235294117647058
+Hafen Laboe,21,0.7647058823529411
+Hafen Laboe,22,0.7647058823529411
+Hafen Laboe,23,0.7647058823529411
+Alte Mu/Brunswiker Str.,0,1.0588235294117647
+Alte Mu/Brunswiker Str.,1,1.0588235294117647
+Alte Mu/Brunswiker Str.,2,1.5294117647058822
+Alte Mu/Brunswiker Str.,3,0.9411764705882353
+Alte Mu/Brunswiker Str.,4,1.4705882352941178
+Alte Mu/Brunswiker Str.,5,1.2941176470588236
+Alte Mu/Brunswiker Str.,6,1.4705882352941178
+Alte Mu/Brunswiker Str.,7,1.8235294117647058
+Alte Mu/Brunswiker Str.,8,1.0588235294117647
+Alte Mu/Brunswiker Str.,9,1.5294117647058822
+Alte Mu/Brunswiker Str.,10,1.4705882352941178
+Alte Mu/Brunswiker Str.,11,1.7647058823529411
+Alte Mu/Brunswiker Str.,12,1.7647058823529411
+Alte Mu/Brunswiker Str.,13,2.1176470588235294
+Alte Mu/Brunswiker Str.,14,1.5294117647058822
+Alte Mu/Brunswiker Str.,15,1.8235294117647058
+Alte Mu/Brunswiker Str.,16,1.7058823529411764
+Alte Mu/Brunswiker Str.,17,1.6470588235294117
+Alte Mu/Brunswiker Str.,18,1.4705882352941178
+Alte Mu/Brunswiker Str.,19,1.2352941176470589
+Alte Mu/Brunswiker Str.,20,1.1764705882352942
+Alte Mu/Brunswiker Str.,21,1.1764705882352942
+Alte Mu/Brunswiker Str.,22,1.1176470588235294
+Alte Mu/Brunswiker Str.,23,1.411764705882353
+Holsten-/Hafenstraße,0,1.1176470588235294
+Holsten-/Hafenstraße,1,0.9411764705882353
+Holsten-/Hafenstraße,2,1.2352941176470589
+Holsten-/Hafenstraße,3,1.0
+Holsten-/Hafenstraße,4,1.2941176470588236
+Holsten-/Hafenstraße,5,1.1764705882352942
+Holsten-/Hafenstraße,6,2.0588235294117645
+Holsten-/Hafenstraße,7,1.7647058823529411
+Holsten-/Hafenstraße,8,1.7647058823529411
+Holsten-/Hafenstraße,9,1.7058823529411764
+Holsten-/Hafenstraße,10,1.7058823529411764
+Holsten-/Hafenstraße,11,2.0
+Holsten-/Hafenstraße,12,2.1176470588235294
+Holsten-/Hafenstraße,13,1.8823529411764706
+Holsten-/Hafenstraße,14,2.1176470588235294
+Holsten-/Hafenstraße,15,3.0588235294117645
+Holsten-/Hafenstraße,16,2.176470588235294
+Holsten-/Hafenstraße,17,2.5294117647058822
+Holsten-/Hafenstraße,18,1.8823529411764706
+Holsten-/Hafenstraße,19,1.7058823529411764
+Holsten-/Hafenstraße,20,1.6470588235294117
+Holsten-/Hafenstraße,21,1.411764705882353
+Holsten-/Hafenstraße,22,1.411764705882353
+Holsten-/Hafenstraße,23,1.2941176470588236
+Kieler Innovations- und Technologiezentrum,0,1.1764705882352942
+Kieler Innovations- und Technologiezentrum,1,1.0588235294117647
+Kieler Innovations- und Technologiezentrum,2,1.1764705882352942
+Kieler Innovations- und Technologiezentrum,3,0.9411764705882353
+Kieler Innovations- und Technologiezentrum,4,1.1176470588235294
+Kieler Innovations- und Technologiezentrum,5,1.1764705882352942
+Kieler Innovations- und Technologiezentrum,6,2.176470588235294
+Kieler Innovations- und Technologiezentrum,7,1.5294117647058822
+Kieler Innovations- und Technologiezentrum,8,1.8235294117647058
+Kieler Innovations- und Technologiezentrum,9,1.9411764705882353
+Kieler Innovations- und Technologiezentrum,10,1.8823529411764706
+Kieler Innovations- und Technologiezentrum,11,1.6470588235294117
+Kieler Innovations- und Technologiezentrum,12,1.7058823529411764
+Kieler Innovations- und Technologiezentrum,13,2.0
+Kieler Innovations- und Technologiezentrum,14,2.1176470588235294
+Kieler Innovations- und Technologiezentrum,15,1.9411764705882353
+Kieler Innovations- und Technologiezentrum,16,1.588235294117647
+Kieler Innovations- und Technologiezentrum,17,1.588235294117647
+Kieler Innovations- und Technologiezentrum,18,1.7058823529411764
+Kieler Innovations- und Technologiezentrum,19,1.2352941176470589
+Kieler Innovations- und Technologiezentrum,20,1.2352941176470589
+Kieler Innovations- und Technologiezentrum,21,1.1176470588235294
+Kieler Innovations- und Technologiezentrum,22,1.0588235294117647
+Kieler Innovations- und Technologiezentrum,23,0.9411764705882353
+Schulen am Langsee,0,0.8823529411764706
+Schulen am Langsee,1,0.8823529411764706
+Schulen am Langsee,2,0.9411764705882353
+Schulen am Langsee,3,0.8235294117647058
+Schulen am Langsee,4,0.9411764705882353
+Schulen am Langsee,5,0.7058823529411765
+Schulen am Langsee,6,0.8823529411764706
+Schulen am Langsee,7,0.7647058823529411
+Schulen am Langsee,8,0.8823529411764706
+Schulen am Langsee,9,0.9411764705882353
+Schulen am Langsee,10,0.9411764705882353
+Schulen am Langsee,11,1.1176470588235294
+Schulen am Langsee,12,1.1176470588235294
+Schulen am Langsee,13,0.9411764705882353
+Schulen am Langsee,14,0.9411764705882353
+Schulen am Langsee,15,0.8823529411764706
+Schulen am Langsee,16,0.8235294117647058
+Schulen am Langsee,17,0.8235294117647058
+Schulen am Langsee,18,0.8823529411764706
+Schulen am Langsee,19,0.8235294117647058
+Schulen am Langsee,20,0.8235294117647058
+Schulen am Langsee,21,0.8235294117647058
+Schulen am Langsee,22,0.8823529411764706
+Schulen am Langsee,23,1.0
+RBZ Wirtschaft,0,0.9411764705882353
+RBZ Wirtschaft,1,1.0
+RBZ Wirtschaft,2,1.1764705882352942
+RBZ Wirtschaft,3,0.9411764705882353
+RBZ Wirtschaft,4,1.1176470588235294
+RBZ Wirtschaft,5,0.8823529411764706
+RBZ Wirtschaft,6,1.2352941176470589
+RBZ Wirtschaft,7,1.8823529411764706
+RBZ Wirtschaft,8,1.4705882352941178
+RBZ Wirtschaft,9,1.411764705882353
+RBZ Wirtschaft,10,1.6470588235294117
+RBZ Wirtschaft,11,1.6470588235294117
+RBZ Wirtschaft,12,1.4705882352941178
+RBZ Wirtschaft,13,1.6470588235294117
+RBZ Wirtschaft,14,2.176470588235294
+RBZ Wirtschaft,15,1.4705882352941178
+RBZ Wirtschaft,16,1.1176470588235294
+RBZ Wirtschaft,17,1.0588235294117647
+RBZ Wirtschaft,18,1.1176470588235294
+RBZ Wirtschaft,19,1.0
+RBZ Wirtschaft,20,1.0
+RBZ Wirtschaft,21,0.9411764705882353
+RBZ Wirtschaft,22,1.1176470588235294
+RBZ Wirtschaft,23,0.9411764705882353
+Krausstraße,0,1.2352941176470589
+Krausstraße,1,1.1764705882352942
+Krausstraße,2,1.2352941176470589
+Krausstraße,3,1.0588235294117647
+Krausstraße,4,1.1176470588235294
+Krausstraße,5,1.0588235294117647
+Krausstraße,6,0.8235294117647058
+Krausstraße,7,1.1764705882352942
+Krausstraße,8,1.6470588235294117
+Krausstraße,9,1.2352941176470589
+Krausstraße,10,1.3529411764705883
+Krausstraße,11,1.4705882352941178
+Krausstraße,12,1.9411764705882353
+Krausstraße,13,1.5294117647058822
+Krausstraße,14,1.411764705882353
+Krausstraße,15,1.1176470588235294
+Krausstraße,16,2.0588235294117645
+Krausstraße,17,2.2941176470588234
+Krausstraße,18,1.7647058823529411
+Krausstraße,19,1.2941176470588236
+Krausstraße,20,1.4705882352941178
+Krausstraße,21,1.3529411764705883
+Krausstraße,22,1.6470588235294117
+Krausstraße,23,1.2941176470588236
+Bahnhof Suchsdorf,0,1.0588235294117647
+Bahnhof Suchsdorf,1,1.0
+Bahnhof Suchsdorf,2,1.1764705882352942
+Bahnhof Suchsdorf,3,0.9411764705882353
+Bahnhof Suchsdorf,4,1.7058823529411764
+Bahnhof Suchsdorf,5,1.0
+Bahnhof Suchsdorf,6,1.3529411764705883
+Bahnhof Suchsdorf,7,1.4705882352941178
+Bahnhof Suchsdorf,8,1.2941176470588236
+Bahnhof Suchsdorf,9,0.9411764705882353
+Bahnhof Suchsdorf,10,1.1176470588235294
+Bahnhof Suchsdorf,11,1.2352941176470589
+Bahnhof Suchsdorf,12,1.3529411764705883
+Bahnhof Suchsdorf,13,1.588235294117647
+Bahnhof Suchsdorf,14,1.8235294117647058
+Bahnhof Suchsdorf,15,2.0
+Bahnhof Suchsdorf,16,1.4705882352941178
+Bahnhof Suchsdorf,17,1.2941176470588236
+Bahnhof Suchsdorf,18,1.0588235294117647
+Bahnhof Suchsdorf,19,1.1764705882352942
+Bahnhof Suchsdorf,20,0.9411764705882353
+Bahnhof Suchsdorf,21,1.0588235294117647
+Bahnhof Suchsdorf,22,0.9411764705882353
+Bahnhof Suchsdorf,23,0.9411764705882353
+UKSH,0,0.9411764705882353
+UKSH,1,0.9411764705882353
+UKSH,2,1.1764705882352942
+UKSH,3,0.9411764705882353
+UKSH,4,1.0588235294117647
+UKSH,5,1.1176470588235294
+UKSH,6,1.3529411764705883
+UKSH,7,1.3529411764705883
+UKSH,8,1.7058823529411764
+UKSH,9,1.588235294117647
+UKSH,10,1.4705882352941178
+UKSH,11,1.411764705882353
+UKSH,12,1.7647058823529411
+UKSH,13,1.2941176470588236
+UKSH,14,1.2352941176470589
+UKSH,15,1.3529411764705883
+UKSH,16,1.411764705882353
+UKSH,17,1.588235294117647
+UKSH,18,1.0588235294117647
+UKSH,19,0.9411764705882353
+UKSH,20,1.2352941176470589
+UKSH,21,0.8823529411764706
+UKSH,22,0.8823529411764706
+UKSH,23,0.9411764705882353
+Zur Fähre,0,1.1176470588235294
+Zur Fähre,1,0.9411764705882353
+Zur Fähre,2,1.4705882352941178
+Zur Fähre,3,0.9411764705882353
+Zur Fähre,4,1.411764705882353
+Zur Fähre,5,1.7058823529411764
+Zur Fähre,6,1.1764705882352942
+Zur Fähre,7,1.411764705882353
+Zur Fähre,8,1.411764705882353
+Zur Fähre,9,1.1764705882352942
+Zur Fähre,10,1.3529411764705883
+Zur Fähre,11,1.6470588235294117
+Zur Fähre,12,1.4705882352941178
+Zur Fähre,13,2.235294117647059
+Zur Fähre,14,2.2941176470588234
+Zur Fähre,15,1.8235294117647058
+Zur Fähre,16,1.2352941176470589
+Zur Fähre,17,1.2352941176470589
+Zur Fähre,18,1.2941176470588236
+Zur Fähre,19,1.411764705882353
+Zur Fähre,20,1.3529411764705883
+Zur Fähre,21,1.1176470588235294
+Zur Fähre,22,1.2352941176470589
+Zur Fähre,23,1.0588235294117647
+Rathaus Waisenhofstraße,0,0.7058823529411765
+Rathaus Waisenhofstraße,1,0.7058823529411765
+Rathaus Waisenhofstraße,2,0.6470588235294118
+Rathaus Waisenhofstraße,3,0.7058823529411765
+Rathaus Waisenhofstraße,4,0.7058823529411765
+Rathaus Waisenhofstraße,5,1.4705882352941178
+Rathaus Waisenhofstraße,6,0.7058823529411765
+Rathaus Waisenhofstraße,7,1.1176470588235294
+Rathaus Waisenhofstraße,8,0.9411764705882353
+Rathaus Waisenhofstraße,9,1.1764705882352942
+Rathaus Waisenhofstraße,10,0.8823529411764706
+Rathaus Waisenhofstraße,11,1.1764705882352942
+Rathaus Waisenhofstraße,12,1.0
+Rathaus Waisenhofstraße,13,0.8235294117647058
+Rathaus Waisenhofstraße,14,0.8823529411764706
+Rathaus Waisenhofstraße,15,0.8235294117647058
+Rathaus Waisenhofstraße,16,0.7647058823529411
+Rathaus Waisenhofstraße,17,0.7058823529411765
+Rathaus Waisenhofstraße,18,0.6470588235294118
+Rathaus Waisenhofstraße,19,0.6470588235294118
+Rathaus Waisenhofstraße,20,0.6470588235294118
+Rathaus Waisenhofstraße,21,0.6470588235294118
+Rathaus Waisenhofstraße,22,0.6470588235294118
+Rathaus Waisenhofstraße,23,0.6470588235294118
+Studiale,0,0.7647058823529411
+Studiale,1,0.7647058823529411
+Studiale,2,0.7647058823529411
+Studiale,3,0.7647058823529411
+Studiale,4,0.8235294117647058
+Studiale,5,0.7058823529411765
+Studiale,6,0.7058823529411765
+Studiale,7,1.0588235294117647
+Studiale,8,0.7647058823529411
+Studiale,9,0.8823529411764706
+Studiale,10,0.8235294117647058
+Studiale,11,1.2941176470588236
+Studiale,12,0.7647058823529411
+Studiale,13,1.0588235294117647
+Studiale,14,1.1176470588235294
+Studiale,15,0.7647058823529411
+Studiale,16,0.7058823529411765
+Studiale,17,0.7647058823529411
+Studiale,18,1.0
+Studiale,19,0.7647058823529411
+Studiale,20,0.7058823529411765
+Studiale,21,0.7058823529411765
+Studiale,22,0.7058823529411765
+Studiale,23,0.7058823529411765
+Rungholtplatz,0,1.0
+Rungholtplatz,1,0.9411764705882353
+Rungholtplatz,2,1.1176470588235294
+Rungholtplatz,3,0.9411764705882353
+Rungholtplatz,4,1.0588235294117647
+Rungholtplatz,5,0.8823529411764706
+Rungholtplatz,6,1.411764705882353
+Rungholtplatz,7,1.1176470588235294
+Rungholtplatz,8,1.1764705882352942
+Rungholtplatz,9,1.0588235294117647
+Rungholtplatz,10,1.0588235294117647
+Rungholtplatz,11,1.2352941176470589
+Rungholtplatz,12,1.2941176470588236
+Rungholtplatz,13,1.1176470588235294
+Rungholtplatz,14,1.0588235294117647
+Rungholtplatz,15,1.1176470588235294
+Rungholtplatz,16,1.0588235294117647
+Rungholtplatz,17,1.0588235294117647
+Rungholtplatz,18,1.0
+Rungholtplatz,19,1.2352941176470589
+Rungholtplatz,20,1.0588235294117647
+Rungholtplatz,21,1.1176470588235294
+Rungholtplatz,22,0.9411764705882353
+Rungholtplatz,23,0.9411764705882353
+Stadtteilzentrum Pries,0,0.9411764705882353
+Stadtteilzentrum Pries,1,0.9411764705882353
+Stadtteilzentrum Pries,2,1.0588235294117647
+Stadtteilzentrum Pries,3,0.9411764705882353
+Stadtteilzentrum Pries,4,1.0588235294117647
+Stadtteilzentrum Pries,5,0.8823529411764706
+Stadtteilzentrum Pries,6,0.8235294117647058
+Stadtteilzentrum Pries,7,0.8823529411764706
+Stadtteilzentrum Pries,8,0.8823529411764706
+Stadtteilzentrum Pries,9,0.8823529411764706
+Stadtteilzentrum Pries,10,0.9411764705882353
+Stadtteilzentrum Pries,11,1.2352941176470589
+Stadtteilzentrum Pries,12,1.1176470588235294
+Stadtteilzentrum Pries,13,1.1764705882352942
+Stadtteilzentrum Pries,14,0.9411764705882353
+Stadtteilzentrum Pries,15,0.8823529411764706
+Stadtteilzentrum Pries,16,0.7647058823529411
+Stadtteilzentrum Pries,17,0.8823529411764706
+Stadtteilzentrum Pries,18,0.8235294117647058
+Stadtteilzentrum Pries,19,1.0588235294117647
+Stadtteilzentrum Pries,20,1.1176470588235294
+Stadtteilzentrum Pries,21,0.9411764705882353
+Stadtteilzentrum Pries,22,0.9411764705882353
+Stadtteilzentrum Pries,23,0.8823529411764706
+Cruise Center Kiel / Fahrrad Messe Popup,0,0.5882352941176471
+Cruise Center Kiel / Fahrrad Messe Popup,1,0.5294117647058824
+Cruise Center Kiel / Fahrrad Messe Popup,2,0.7647058823529411
+Cruise Center Kiel / Fahrrad Messe Popup,3,0.5294117647058824
+Cruise Center Kiel / Fahrrad Messe Popup,4,0.6470588235294118
+Cruise Center Kiel / Fahrrad Messe Popup,5,0.5294117647058824
+Cruise Center Kiel / Fahrrad Messe Popup,6,0.5882352941176471
+Cruise Center Kiel / Fahrrad Messe Popup,7,0.5882352941176471
+Cruise Center Kiel / Fahrrad Messe Popup,8,0.5882352941176471
+Cruise Center Kiel / Fahrrad Messe Popup,9,0.7647058823529411
+Cruise Center Kiel / Fahrrad Messe Popup,10,0.7647058823529411
+Cruise Center Kiel / Fahrrad Messe Popup,11,0.8235294117647058
+Cruise Center Kiel / Fahrrad Messe Popup,12,0.8235294117647058
+Cruise Center Kiel / Fahrrad Messe Popup,13,0.8823529411764706
+Cruise Center Kiel / Fahrrad Messe Popup,14,0.9411764705882353
+Cruise Center Kiel / Fahrrad Messe Popup,15,0.8235294117647058
+Cruise Center Kiel / Fahrrad Messe Popup,16,1.1764705882352942
+Cruise Center Kiel / Fahrrad Messe Popup,17,0.8235294117647058
+Cruise Center Kiel / Fahrrad Messe Popup,18,0.8235294117647058
+Cruise Center Kiel / Fahrrad Messe Popup,19,0.6470588235294118
+Cruise Center Kiel / Fahrrad Messe Popup,20,0.5294117647058824
+Cruise Center Kiel / Fahrrad Messe Popup,21,0.5882352941176471
+Cruise Center Kiel / Fahrrad Messe Popup,22,0.6470588235294118
+Cruise Center Kiel / Fahrrad Messe Popup,23,0.5882352941176471
